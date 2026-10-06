@@ -1,0 +1,723 @@
+/* ==========================================================================
+   PENTEX — breach layer
+   The drop box. Amber phosphor, not matrix green: the same firm, a different
+   room. Deliberately colder typography than the corporate layer — no
+   headline scale, no whitespace budget, everything monospace.
+   ========================================================================== */
+
+body.breach {
+  background: var(--void);
+  color: var(--pale);
+  font-family: var(--mono);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+/* Faint scanlines over the whole document. Painted once, never animated. */
+body.breach::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 400;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0 2px,
+    rgba(0, 0, 0, 0.22) 2px 3px
+  );
+}
+
+body.breach a {
+  color: var(--phosphor);
+}
+
+::selection {
+  background: var(--phosphor);
+  color: var(--void);
+}
+
+/* --- login ---------------------------------------------------------- */
+
+.gate {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.gate__bar {
+  border-bottom: 1px solid #1b2530;
+  padding: 14px var(--gutter);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.gate__bar img {
+  height: 18px;
+  filter: invert(1) opacity(0.75);
+}
+
+.gate__tag {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--dead);
+}
+
+.gate__tag b {
+  color: var(--phosphor);
+  font-weight: 400;
+}
+
+.gate__body {
+  display: grid;
+  place-items: center;
+  padding: 40px var(--gutter);
+}
+
+.gate__card {
+  width: min(520px, 100%);
+  border: 1px solid #1b2530;
+  background: var(--void-2);
+}
+
+.gate__head {
+  padding: 22px 26px;
+  border-bottom: 1px solid #1b2530;
+}
+
+.gate__head h1 {
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: var(--phosphor);
+  text-transform: uppercase;
+}
+
+.gate__head p {
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: var(--dead);
+}
+
+.gate__form {
+  padding: 26px;
+}
+
+.field {
+  margin-bottom: 18px;
+}
+
+.field label {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--dead);
+  margin-bottom: 7px;
+}
+
+.field input {
+  width: 100%;
+  padding: 12px 14px;
+  background: var(--void);
+  border: 1px solid #1e2a36;
+  color: var(--pale);
+  font-family: var(--mono);
+  font-size: 14px;
+  letter-spacing: 0.04em;
+}
+
+.field input:focus {
+  outline: none;
+  border-color: var(--phosphor-dim);
+  box-shadow: inset 0 0 0 1px var(--phosphor-dim);
+}
+
+.field input::placeholder {
+  color: #2f3d4a;
+}
+
+.gate__submit {
+  width: 100%;
+  padding: 13px;
+  background: var(--phosphor);
+  color: var(--void);
+  border: 0;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.gate__submit:hover {
+  background: #ffc24d;
+}
+
+.gate__note {
+  margin-top: 22px;
+  padding: 16px 18px;
+  border: 1px solid #1b2530;
+  background: var(--void-3);
+  font-size: 11.5px;
+  line-height: 1.6;
+  color: var(--dead);
+}
+
+.gate__note b {
+  color: var(--warn);
+  font-weight: 400;
+}
+
+.gate__msg {
+  margin-top: 16px;
+  padding: 11px 14px;
+  font-size: 12px;
+  display: none;
+}
+
+.gate__msg[data-on="1"] {
+  display: block;
+}
+
+.gate__msg[data-kind="bad"] {
+  border-left: 3px solid var(--alert);
+  background: rgba(255, 107, 53, 0.09);
+  color: #ffb59a;
+}
+
+.gate__msg[data-kind="good"] {
+  border-left: 3px solid var(--phosphor);
+  background: rgba(255, 176, 32, 0.08);
+  color: var(--phosphor);
+}
+
+.gate__foot {
+  border-top: 1px solid #1b2530;
+  padding: 14px var(--gutter);
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  font-size: 11px;
+  color: #37465240;
+  color: var(--dead);
+}
+
+.gate__foot a {
+  text-decoration: none;
+}
+
+.gate__foot a:hover {
+  text-decoration: underline;
+}
+
+/* --- terminal frame ------------------------------------------------- */
+
+.rig {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+.rig__bar {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 10px var(--gutter);
+  background: var(--void-2);
+  border-bottom: 1px solid #1b2530;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--dead);
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.rig__bar img {
+  height: 15px;
+  filter: invert(1) opacity(0.7);
+  flex: 0 0 auto;
+}
+
+.rig__bar b {
+  color: var(--phosphor);
+  font-weight: 400;
+}
+
+.rig__spacer {
+  flex: 1 1 auto;
+}
+
+.rig__bar a {
+  color: var(--dead);
+  text-decoration: none;
+}
+
+.rig__bar a:hover {
+  color: var(--phosphor);
+}
+
+/* Lamp colours in the status strip: three tiny squares, no icons. */
+.lamp {
+  width: 7px;
+  height: 7px;
+  display: inline-block;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.lamp--on {
+  background: var(--phosphor);
+}
+.lamp--dim {
+  background: #263241;
+}
+
+/* --- terminal ------------------------------------------------------- */
+
+.term {
+  overflow-y: auto;
+  padding: 22px var(--gutter) 8px;
+  scrollbar-color: #263241 var(--void);
+}
+
+.term__in {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.line {
+  white-space: pre-wrap;
+  word-break: break-word;
+  min-height: 1.55em;
+}
+
+.line--cmd {
+  margin-top: 14px;
+}
+
+.line--cmd::before {
+  content: "root@dropbox:$ ";
+  color: #2f3d4a;
+}
+
+.line--cmd span {
+  color: var(--phosphor);
+}
+
+.line--sys {
+  color: var(--dead);
+}
+
+.line--ok {
+  color: var(--phosphor);
+}
+
+.line--warn {
+  color: var(--warn);
+}
+
+.line--bad {
+  color: var(--alert);
+}
+
+.line--hdr {
+  color: var(--pale);
+}
+
+.line--doc {
+  color: #b9cbc0;
+}
+
+.line--meta {
+  color: #6d8a78;
+}
+
+.line a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.cursor {
+  display: inline-block;
+  width: 8px;
+  height: 15px;
+  background: var(--phosphor);
+  vertical-align: -2px;
+  animation: blink 1.06s steps(1) infinite;
+}
+
+@keyframes blink {
+  0%,
+  49% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cursor {
+    animation: none;
+  }
+}
+
+/* --- inline input row ------------------------------------------------ */
+
+.prompt-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0;
+  margin-top: 14px;
+}
+
+.prompt-row__ps1 {
+  color: #2f3d4a;
+  white-space: nowrap;
+}
+
+.prompt-row input {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--phosphor);
+  font-family: var(--mono);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.prompt-row input:focus {
+  outline: none;
+}
+
+.prompt-row input::placeholder {
+  color: #2f3d4a;
+}
+
+/* --- document viewer ------------------------------------------------- */
+
+.doc {
+  border: 1px solid #1b2530;
+  background: var(--void-2);
+  margin: 18px 0 26px;
+}
+
+.doc__bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  padding: 11px 16px;
+  border-bottom: 1px solid #1b2530;
+  background: var(--void-3);
+  font-size: 10.5px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--dead);
+}
+
+.doc__bar b {
+  color: var(--phosphor);
+  font-weight: 400;
+}
+
+.doc__bar .flag {
+  color: var(--alert);
+}
+
+.doc__bar .flag--ok {
+  color: var(--phosphor);
+}
+
+.doc__body {
+  padding: 20px 18px;
+  font-size: 13px;
+  line-height: 1.62;
+  color: #b9cbc0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 62vh;
+  overflow-y: auto;
+}
+
+.doc__body mark {
+  background: rgba(255, 176, 32, 0.16);
+  color: #ffd699;
+  padding: 0 2px;
+}
+
+.doc__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 12px 16px;
+  border-top: 1px solid #1b2530;
+}
+
+.btn-b {
+  padding: 8px 14px;
+  background: none;
+  border: 1px solid #263241;
+  color: var(--dead);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn-b:hover {
+  border-color: var(--phosphor-dim);
+  color: var(--phosphor);
+}
+
+.btn-b[disabled] {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* --- evidence board -------------------------------------------------- */
+
+.board {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 26px var(--gutter) 60px;
+}
+
+.board__head {
+  border: 1px solid #1b2530;
+  background: var(--void-2);
+  padding: 22px 24px;
+  margin-bottom: 26px;
+}
+
+.board__head h1 {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--phosphor);
+}
+
+.board__head p {
+  margin: 12px 0 0;
+  font-size: 12.5px;
+  color: var(--dead);
+  max-width: 74ch;
+}
+
+.gauge {
+  margin: 20px 0 4px;
+  height: 10px;
+  background: #10171f;
+  border: 1px solid #1e2a36;
+  position: relative;
+  overflow: hidden;
+}
+
+.gauge__fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  background: var(--phosphor);
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+.gauge__t {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--dead);
+}
+
+.gauge__t b {
+  color: var(--phosphor);
+  font-weight: 400;
+}
+
+.grid-e {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
+  gap: 1px;
+  background: #1b2530;
+  border: 1px solid #1b2530;
+}
+
+.ev {
+  background: var(--void-2);
+  padding: 16px 17px;
+  min-height: 132px;
+  display: flex;
+  flex-direction: column;
+}
+
+.ev__k {
+  font-size: 9.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #3b4a58;
+}
+
+.ev__t {
+  font-size: 13px;
+  color: var(--pale);
+  margin: 9px 0 8px;
+  line-height: 1.4;
+}
+
+.ev__d {
+  font-size: 11px;
+  color: var(--dead);
+  margin-top: auto;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.ev__tag {
+  color: #6d8a78;
+}
+
+.ev--locked .ev__t {
+  color: #3b4a58;
+}
+
+.ev--locked .ev__d {
+  color: #2b3742;
+}
+
+.ev--got {
+  background: var(--void-3);
+  box-shadow: inset 3px 0 0 var(--phosphor);
+}
+
+.ev--got .ev__k {
+  color: var(--phosphor-dim);
+}
+
+.ev__lock {
+  font-size: 11px;
+  color: #2b3742;
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+/* The unlocked case note, revealed only at full evidence. */
+.verdict {
+  border: 1px solid var(--alert);
+  background: rgba(255, 107, 53, 0.06);
+  padding: 24px 26px;
+  margin-top: 26px;
+  display: none;
+}
+
+.verdict[data-on="1"] {
+  display: block;
+}
+
+.verdict h2 {
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--alert);
+  margin: 0 0 14px;
+}
+
+.verdict p {
+  font-size: 13px;
+  color: #c8d3cc;
+  margin: 0 0 12px;
+  max-width: 76ch;
+}
+
+.verdict p:last-child {
+  margin-bottom: 0;
+}
+
+.reset-b {
+  margin-top: 22px;
+  padding: 9px 15px;
+  background: none;
+  border: 1px solid #263241;
+  color: var(--dead);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.reset-b:hover {
+  border-color: var(--alert);
+  color: var(--alert);
+}
+
+/* --- static breacherror / fallthrough pages --------------------------- */
+
+.note {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 40px var(--gutter);
+}
+
+.note__in {
+  max-width: 62ch;
+  border: 1px solid #1b2530;
+  background: var(--void-2);
+  padding: 34px 30px;
+}
+
+.note__in h1 {
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--phosphor);
+  margin-bottom: 16px;
+}
+
+.note__in p {
+  font-size: 13px;
+  color: var(--dead);
+}
+
+.note__in a {
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+.doc__photo {
+  margin: 0;
+  border-top: 1px solid #1b2530;
+  border-bottom: 1px solid #1b2530;
+  background: var(--void);
+}
+.doc__photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: grayscale(0.35) contrast(1.05) brightness(0.92);
+}
+.doc__photo figcaption {
+  padding: 10px 16px;
+  font-size: 11px;
+  line-height: 1.5;
+  color: var(--dead);
+}
+
+.term--board {
+  padding: 0;
+}
+

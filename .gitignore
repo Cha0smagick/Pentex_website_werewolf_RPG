@@ -1,0 +1,12 @@
+# opencode / tooling scratch — not part of the site
+.codegraph/
+.opencode/
+.omo/
+undefined/
+
+# image generator scratch
+assets/img/raw/
+
+# OS noise
+.DS_Store
+Thumbs.db

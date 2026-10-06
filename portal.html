@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pentex — sub-level 4 controlled access</title>
+<meta name="description" content="Pentex group employee portal. Controlled access. Sub-level 4, One Pentex Plaza.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="assets/img/LogoPentex.webp" type="image/webp">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/breach.css">
+</head>
+<body class="breach" data-page="portal">
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="gate">
+  <div class="gate__bar">
+    <img src="assets/img/LogoPentex.webp" width="150" height="18" alt="Pentex">
+    <span class="gate__tag">One Pentex Plaza · <b>sub-level 4</b> · group credential verification</span>
+    <span class="rig__spacer"></span>
+    <span class="lamp lamp--dim" id="lamp">idle</span>
+  </div>
+
+  <div class="gate__body" id="main">
+    <div class="gate__card">
+      <div class="gate__head">
+        <h1>Controlled access</h1>
+        <p>This room holds board material, programme dossiers, personnel records and site reports. Attempts are logged against the badge identifier entered below.</p>
+      </div>
+
+      <form class="gate__form" id="gate-form" autocomplete="off" novalidate>
+        <div class="field">
+          <label for="f-user">Employee identifier</label>
+          <input id="f-user" name="user" type="text" autocomplete="off" spellcheck="false" autocapitalize="none" placeholder="badge identifier">
+        </div>
+        <div class="field">
+          <label for="f-pass">Passphrase</label>
+          <input id="f-pass" name="pass" type="password" autocomplete="off" placeholder="group passphrase">
+        </div>
+        <button class="gate__submit" type="submit">Authenticate</button>
+        <p class="gate__msg" id="gate-msg" role="status" aria-live="polite" data-on="0" data-kind="bad"></p>
+
+        <div class="gate__note">
+          <b>Legacy notice.</b> <span id="badge-policy"></span>
+          <br><br>
+          <b>Retention.</b> Failed verifications are retained for the statutory period and are reviewed by Corporate Security. Successful verifications open a session that expires after 400 seconds of inactivity; anything already read stays cached locally.
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="gate__foot">
+    <span>Pentex Industries Worldwide, Inc. · sub-level 4 is not in the public floor plan.</span>
+    <a href="index.html">Return to the public site</a>
+    <a href="contact.html">Assessor access</a>
+  </div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/auth.js"></script>
+</body>
+</html>
