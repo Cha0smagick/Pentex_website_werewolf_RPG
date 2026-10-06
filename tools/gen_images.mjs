@@ -115,6 +115,257 @@ const IMAGES = {
   },
 };
 
+/* --------------------------------------------------------------------------
+ * Second art pass. Same film stock, worse news.
+ * Names here are the filenames the archive and the case board reference.
+ * -------------------------------------------------------------------------- */
+Object.assign(IMAGES, {
+  "fire-forest-smoke": {
+    prompt:
+      "a wide column of black smoke rising from a forest fire beyond a cleared area, orange ember glow at the base, heavy grey overcast, shot from a distant ridge, documentary photograph, desaturated except the fire",
+  },
+  "fire-scrub-line": {
+    prompt:
+      "controlled burn scar running across dry grassland, a thin line of flame consuming scrub, ash rising in the still air, rusted tanker parked on a fire break, documentary photograph, desaturated",
+  },
+  "fire-night-glow": {
+    prompt:
+      "night forest fire seen from a distance, orange glow lighting the underside of smoke, silhouetted dead trunks, no people, documentary photograph, very dark with a warm core",
+  },
+  "oil-spill-sheen": {
+    prompt:
+      "iridescent oil sheen spreading across calm coastal water at low tide, dead mangrove trunks protruding, grey sky, no boats, documentary photograph, muted",
+  },
+  "oil-slick-river": {
+    prompt:
+      "thick dark oil film on a slow brown river between two forest banks, a band of rainbow sheen catching the light, dead fish on the mud edge, documentary photograph, desaturated",
+  },
+  "oil-pipeline-burst": {
+    prompt:
+      "a ruptured pipeline section venting a hard jet of dark liquid onto frozen ground, vapour cloud rising, emergency valve assembly, no people, industrial documentary photograph, cold palette",
+  },
+  "tanker-queue-night": {
+    prompt:
+      "a queue of white tankers on a dirt road at night, headlights cutting through dust, no markings on the tanks, distant floodlight tower, documentary photograph, desaturated",
+  },
+  "toxic-plume-fence": {
+    prompt:
+      "a chemical plant releasing a pale yellowish plume over a perimeter fence at dawn, dead grass inside the fence line, cold grey light, documentary photograph",
+  },
+  "toxic-foam-river": {
+    prompt:
+      "thick white foam covering a slow stretch of river beside a concrete outfall, foam clinging to reeds, overcast, documentary photograph, desaturated",
+  },
+  "toxic-groundwater-pipe": {
+    prompt:
+      "a rusted monitoring well casing protruding from cracked earth, stained ground around it, dead scrub, flat grey light, documentary photograph, close view",
+  },
+  "toxic-tar-pit": {
+    prompt:
+      "a black viscous waste pit with a crust of set sludge, pipes feeding it from a low shed, dead vegetation at the rim, overcast, documentary photograph, desaturated",
+  },
+  "toxic-drum-lot": {
+    prompt:
+      "hundreds of unmarked steel drums in rows on a concrete pad, several collapsed and corroded, dead weeds between the rows, overcast daylight, documentary photograph, desaturated",
+  },
+  "toxic-lab-flask": {
+    prompt:
+      "a cracked borosilicate flask on a bench holding opaque amber liquid, stained steel tray, unlabelled vials in a rack behind, cold clinical light, close documentary photograph",
+  },
+  "toxic-mutation-livestock": {
+    prompt:
+      "a single hairless calf lying on straw in a dim barn pen, ribs visible, harsh work lamp, no people visible, veterinary documentary photograph, cold and unpleasant",
+  },
+  "uranium-ore-pile": {
+    prompt:
+      "a conical stockpile of dark ore on a graded pad at a remote mine, dust haze, conveyor gantry, no people, industrial documentary photograph, desaturated",
+  },
+  "uranium-mill-tails": {
+    prompt:
+      "a vast flat field of pale tailings with settling ponds, a small processing shed, dead grass margins, overcast sky, wide documentary photograph, very desaturated",
+  },
+  "uranium-ore-sacks": {
+    prompt:
+      "stacked jute sacks on wooden pallets in a bare warehouse, wide aisle, one hanging lamp, cold institutional photograph, desaturated, no people",
+  },
+  "uranium-container-yard": {
+    prompt:
+      "rows of steel shipping containers in a fenced yard under floodlights, two of them carrying hazard placards with no readable text, night security photograph, cold blue",
+  },
+  "munitions-factory-line": {
+    prompt:
+      "an automated assembly line of small dark metal components moving along a rail, overhead gantry, no people, sterile industrial photograph, cool desaturated tones",
+  },
+  "munitions-silo": {
+    prompt:
+      "a row of concrete storage silos at dusk, blast doors closed, chain-link fence in foreground, empty yard, wide industrial photograph, desaturated",
+  },
+  "munitions-shell-crates": {
+    prompt:
+      "wooden crates with stencilled hazard diamonds, lids partly open showing packing straw, warehouse floor, no people, documentary photograph, cold",
+  },
+  "munitions-test-range": {
+    prompt:
+      "an empty live-fire test range, concrete firing bays, a berm of scorched earth, spent brass scattered on the concrete, overcast, documentary photograph, desaturated",
+  },
+  "aero-hangar-night": {
+    prompt:
+      "a vast aircraft hangar at night, one wide door open onto wet tarmac, a dark angular experimental airframe inside on stands, floodlights, no people, documentary photograph, cold blue",
+  },
+  "aero-engine-test-stand": {
+    prompt:
+      "a jet engine on an outdoor test stand surrounded by instrumentation cabling, heat shimmer, blast fence behind, overcast, industrial documentary photograph, desaturated",
+  },
+  "aero-wing-frost": {
+    prompt:
+      "a swept wing under ground de-icing, frost and spray ice on the leading edge, service vehicles beneath, dawn cold light, aviation documentary photograph, desaturated",
+  },
+  "deforestation-clearcut": {
+    prompt:
+      "a hard straight edge where mature rainforest meets bare logged ground, stumps in the foreground, dead brush, flat overcast light, aerial documentary photograph, desaturated",
+  },
+  "deforestation-canopy-hole": {
+    prompt:
+      "a square hole cut into dense tropical canopy seen from above, raw pale edges, remaining forest dark and intact, aerial documentary photograph",
+  },
+  "deforestation-log-pile": {
+    prompt:
+      "a huge stack of cut timber logs in a cleared area, ends facing camera, a bulldozer track in the mud, overcast, documentary photograph, desaturated",
+  },
+  "deforestation-road-push": {
+    prompt:
+      "a wide dirt road bulldozed straight through dense forest to the horizon, deep ruts, fallen trees at the edges, aerial documentary photograph, desaturated",
+  },
+  "blight-dead-orchard": {
+    prompt:
+      "rows of dead fruit trees in an orchard, bark peeling, no leaves, hard light, irrigation channel dry beside them, documentary photograph, cold palette",
+  },
+  "blight-crop-rotation": {
+    prompt:
+      "a field where the crop has failed in a rectangular pattern of stunted grey plants, healthy green beyond the boundary, aerial documentary photograph, overcast",
+  },
+  "blight-soil-core": {
+    prompt:
+      "a soil core sample held above a labelled tray in a field laboratory, roots blackened through the profile, window light, close documentary photograph",
+  },
+  "blight-pollinator-cage": {
+    prompt:
+      "a field cage of fine mesh containing beehive boxes, dead bees on the mesh, agricultural documentary photograph, flat overcast light, desaturated",
+  },
+  "lab-scalpel-tray": {
+    prompt:
+      "a stainless steel dissection tray with fine instruments laid out in a row, a small covered dish, cold overhead light, close clinical documentary photograph",
+  },
+  "lab-centrifuge-room": {
+    prompt:
+      "a row of benchtop centrifuges in a plain laboratory, one lid open, no people, cold fluorescent light, documentary photograph, desaturated",
+  },
+  "lab-cage-rack": {
+    prompt:
+      "a tall rack of small stainless animal cages in a dim room, one door ajar, straw and bedding, no people visible, clinical documentary photograph, cold",
+  },
+  "lab-freezer-bank": {
+    prompt:
+      "a bank of chest freezers against a wall in an unmarked room, one lid raised, cold vapour spilling, harsh overhead light, documentary photograph",
+  },
+  "lab-necropsy-table": {
+    prompt:
+      "a stainless necropsy table with a shallow drain channel, tiled wall, surgical lamp above, empty and wiped down, cold clinical documentary photograph",
+  },
+  "lab-mri-corridor": {
+    prompt:
+      "a bare concrete corridor with an empty imaging suite visible through a window, cable trunking, one flickering fluorescent, institutional documentary photograph, desaturated",
+  },
+  "animal-dog-kennel": {
+    prompt:
+      "a row of empty stainless kennels in a concrete run with a drain channel, chain-link gate, no animals, harsh overhead light, documentary photograph, cold",
+  },
+  "animal-pig-farm": {
+    prompt:
+      "an empty concrete pig housing block with feed troughs and a slurry channel, heavy rain outside, no animals, industrial agricultural documentary photograph, desaturated",
+  },
+  "animal-crate-airport": {
+    prompt:
+      "stacked wooden livestock crates on an airport apron at night, one crate door forced open, ground crew vehicle in the distance with no markings, documentary photograph, dark",
+  },
+  "animal-vivarium-rack": {
+    prompt:
+      "a wall of small ventilated cages in a windowless animal room, a cage door open, bedding disturbed, no animals, cold institutional documentary photograph",
+  },
+  "security-tunnel-camera": {
+    prompt:
+      "a bare concrete service tunnel with conduit runs, a single caged camera on the ceiling, one caged wall lamp, deep shadow, documentary photograph, very dark",
+  },
+  "security-sublevel-stair": {
+    prompt:
+      "a service stairwell in a concrete core, painted floor number, steel handrail, single overhead lamp, no signage, brutalist institutional photograph, cold desaturated",
+  },
+  "security-gate-night": {
+    prompt:
+      "a sliding steel vehicle gate at night with a spike barrier, floodlight glare, wet concrete, a guard booth with dark glass, documentary photograph, cold",
+  },
+  "security-archive-vault": {
+    prompt:
+      "a small document vault with a heavy steel door half open, shelving of grey boxes behind, single overhead lamp, concrete floor, documentary photograph, desaturated",
+  },
+  "security-convoy-desert": {
+    prompt:
+      "two unmarked vehicles on a desert highway at dusk, long shadows, dust plume behind, vast empty landscape, documentary photograph, desaturated",
+  },
+  "ruins-demolition": {
+    prompt:
+      "a half demolished industrial structure with exposed steel, a dust cloud hanging in still air, rubble in the foreground, overcast, demolition documentary photograph, desaturated",
+  },
+  "ruins-abandoned-tank": {
+    prompt:
+      "a derelict storage tank in scrub, rust streaks, a collapsed ladder, weeds through the floor plate, overcast, industrial decay documentary photograph",
+  },
+  "ruins-flooded-plant": {
+    prompt:
+      "a flooded industrial ground floor, water reflecting rusted machinery, a collapsed roof panel, grey daylight through missing cladding, documentary photograph, desaturated",
+  },
+  "ruins-charred-hall": {
+    prompt:
+      "a long charred corridor with blackened walls and no ceiling, ash on the floor, a single surviving light fitting, daylight from a blown-out end wall, documentary photograph",
+  },
+  "ruins-collapsed-tower": {
+    prompt:
+      "a collapsed concrete floor plate folded into the ground below, tangled rebar, dust, heavy overcast, demolition documentary photograph, desaturated",
+  },
+  "land-clearcut-burn-stump": {
+    prompt:
+      "blackened tree stumps across a cleared slope, thin smoke between them, a cut track disappearing over the ridge, documentary photograph, desaturated",
+  },
+  "land-drainage-ditch": {
+    prompt:
+      "a straight drainage ditch carrying opaque grey liquid between two banks of dead grass, culvert mouth at the far end, overcast, documentary photograph, desaturated",
+  },
+  "land-waste-pit-burn": {
+    prompt:
+      "an open waste pit with a burning surface, black smoke drifting low, a perimeter berm, no people, documentary photograph, heavy desaturated",
+  },
+  "papers-corridor-archive": {
+    prompt:
+      "a long archive corridor of grey document boxes on steel shelving receding into darkness, one shelf pulled out, a single caged lamp, documentary photograph, desaturated",
+  },
+  "papers-burn-basin": {
+    prompt:
+      "a metal burn basin outdoors with paper edges curling in flame, ash lifting, wet ground around it, no people, documentary photograph, cold palette",
+  },
+  "papers-shredder-room": {
+    prompt:
+      "an industrial cross-cut shredder room, a floor of shredded paper strips, a hopper of intact files, no people, cold industrial documentary photograph",
+  },
+  "human-sedan-curtain": {
+    prompt:
+      "a blacked out sedan stopped on a wet forest road at night, curtain drawn on the rear window, another car behind, no plates, documentary photograph, very dark",
+  },
+  "human-courier-handover": {
+    prompt:
+      "a gloved hand passing a document wallet across a car window at night, faces out of frame, streetlight, documentary photograph, cold desaturated",
+  },
+});
+
 const args = process.argv.slice(2);
 const FORCE = args.includes("--force");
 const ONLY = args.find((a) => a.startsWith("--only="))?.slice(7);

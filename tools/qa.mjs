@@ -1,4 +1,4 @@
-/* Pre-ship checks. Run:  node tools/qa.mjs
+﻿/* Pre-ship checks. Run:  node tools/qa.mjs
    Everything here is a real assertion about the shipped tree. No dependencies. */
 import { readFileSync, readdirSync, existsSync, statSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
@@ -14,7 +14,7 @@ const ok = (name, pass, detail) => {
   checks++;
   if (!pass) fails++;
   const mark = pass ? 'PASS' : 'FAIL';
-  process.stdout.write(`${mark}  ${name}${detail ? '  — ' + detail : ''}\n`);
+  process.stdout.write(`${mark}  ${name}${detail ? '  â€” ' + detail : ''}\n`);
 };
 
 function walk(dir, out = []) {
@@ -213,6 +213,64 @@ for (const page of corpPages) {
 
 /* ---- 9. logo present ---- */
 ok('brand logo copied into assets/img', existsSync(join(ROOT, 'assets/img/LogoPentex.webp')));
+
+/* ---- 10. the whole archive loads and is internally coherent ----
+   The corpus is data.js + lore.js + 35 chunk files. A chunk can parse and
+   still contribute nothing, so every check below is made against the LOADED
+   store, never against the source text. */
+const CHUNKS = existsSync(join(ROOT, 'assets/js/archive'))
+  ? readdirSync(join(ROOT, 'assets/js/archive')).filter((f) => f.endsWith('.js')).sort()
+  : [];
+
+globalThis.window = {};
+try {
+  for (const f of ['assets/js/data.js', 'assets/js/lore.js', ...CHUNKS.map((c) => 'assets/js/archive/' + c)]) {
+    const src = r(f)
+      .replace(/window\.PENTEX/g, 'window.__P')
+      .replace(/\bglobal\.PENTEX\b/g, 'window.__P');
+    new Function(src)();
+  }
+} catch (err) {
+  ok('archive loads without throwing', false, String(err && err.message).slice(0, 140));
+}
+
+const K = globalThis.window.__P || {};
+const files = (K.ARCHIVE && K.ARCHIVE.files) || [];
+ok('archive loads without throwing', true, files.length + ' documents');
+ok('every chunk contributed documents', CHUNKS.length > 0 && files.length > 2000, files.length + ' docs from ' + CHUNKS.length + ' chunks');
+ok('every document path is absolute', files.every((f) => typeof f.path === 'string' && f.path.charAt(0) === '/'));
+ok('every document has a string body of substance',
+  files.every((f) => typeof f.body === 'string' && f.body.length > 60));
+ok('every document has a title', files.every((f) => typeof f.title === 'string' && f.title.length > 2));
+ok('no document id is a number or placeholder',
+  files.every((f) => typeof f.id === 'string' && f.id.length > 1 && !/^0/.test(f.id)));
+ok('no document basename begins with a digit-garbage run',
+  files.every((f) => !/\/0[A-Za-z]/.test(f.path)));
+ok('document ids are unique', (() => {
+  const s = new Set();
+  let dup = 0;
+  files.forEach((f) => { if (s.has(f.id)) dup++; s.add(f.id); });
+  return dup === 0;
+})(), files.length + ' ids');
+ok('document paths are unique', (() => {
+  const s = new Set();
+  let dup = 0;
+  files.forEach((f) => { if (s.has(f.path)) dup++; s.add(f.path); });
+  return dup === 0;
+})());
+ok('no replacement characters in any document body',
+  files.every((f) => f.body.indexOf('\uFFFD') === -1));
+ok('every document is listed in FS', (() => {
+  const s = new Set();
+  Object.keys(K.FS || {}).forEach((k) => (K.FS[k] || []).forEach((e) => {
+    s.add(k + e.name);
+    s.add(k + '/' + String(e.name).split('/').filter(Boolean).pop());
+  }));
+  return files.every((f) => s.has(f.path));
+})());
+ok('every encoded document uses a known decoder',
+  (K.DECODERS || []).length === 3 &&
+  files.filter((f) => f.enc).every((f) => D.DECODERS.indexOf(f.enc) !== -1));
 
 process.stdout.write(`\n${checks - fails}/${checks} checks passed\n`);
 process.exit(fails === 0 ? 0 : 1);

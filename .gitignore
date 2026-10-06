@@ -1,4 +1,4 @@
-# opencode / tooling scratch — not part of the site
+# opencode / tooling scratch, not part of the site
 .codegraph/
 .opencode/
 .omo/
@@ -10,3 +10,5 @@ assets/img/raw/
 # OS noise
 .DS_Store
 Thumbs.db
+# playwright MCP artefacts
+.playwright-mcp/
