@@ -84,6 +84,7 @@ body.corp {
   font-size: 12px !important;
   font-weight: 700 !important;
   letter-spacing: 0.08em !important;
+  overflow-wrap: break-word;
   text-transform: uppercase;
   color: var(--ink) !important;
   background: var(--accent-2);
@@ -421,6 +422,58 @@ body.corp {
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
 }
 
+/* A grid draws its own border and 1px cell rules, so every child inherits a
+   visible box. A bare <div>, <ol> or <p> child therefore used to sit flush
+   against that border with its first character on the rule. Anything that is
+   not a .card gets the card's inset here instead, which is what makes a cell
+   read as a box rather than as a stripe. .fig opts out: its image should reach
+   the cell edge, and the grid already supplies the frame. */
+.grid > :not(.card):not(.fig) {
+  padding: 26px;
+}
+
+.grid > .fig {
+  padding: 0;
+  border: 0;
+  background: none;
+}
+
+/* The metagame tab sits beside Restricted in the masthead but is not an access
+   door — it is documentation, so it reads as a quiet outline rather than a
+   filled button. Both colours have to be marked important because
+   .masthead__cta sets them that way, and an unmarked override simply loses the
+   cascade and leaves dark ink on a transparent background. */
+.masthead__cta--meta {
+  color: var(--text-dim) !important;
+  background: none;
+  border: 1px solid var(--line);
+  border-bottom-color: var(--line) !important;
+}
+
+.masthead__cta--meta:hover,
+.masthead__cta--meta:focus-visible {
+  color: var(--text-hi) !important;
+  background: none;
+  border-color: var(--accent-2);
+  border-bottom-color: var(--accent-2) !important;
+}
+
+/* Grid and flex items default to min-width:auto, so a single unbreakable
+   token — a badge like r.ferreira.sampaio@pentex.example — widens the track
+   past its share and prints over the card border. min-width:0 lets the track
+   hold its declared size and overflow-wrap breaks the token inside it. */
+.grid > *,
+.person > * {
+  min-width: 0;
+}
+
+.card,
+.deflist dd,
+.person__note,
+.dtable td {
+  overflow-wrap: break-word;
+}
+
 .card {
   background: var(--ink);
   padding: 30px 26px;
@@ -517,7 +570,12 @@ body.corp {
 
 .deflist {
   display: grid;
-  grid-template-columns: minmax(160px, 200px) 1fr;
+  /* Proportional label column, not a 160px minimum. These labels are short
+     uppercase words — SINCE, ROOM, BADGE, SITE — and a fixed minimum ate the
+     value column in a 230px card, which broke the values one character per
+     line. minmax(0, 1fr) lets the value shrink and wrap rather than push the
+     track past the card. */
+  grid-template-columns: minmax(64px, 34%) minmax(0, 1fr);
   gap: 0;
 }
 
@@ -541,6 +599,7 @@ body.corp {
 .deflist dd .mono {
   font-family: var(--mono);
   font-size: 13px;
+  overflow-wrap: break-word;
 }
 
 @media (max-width: 620px) {
@@ -558,12 +617,26 @@ body.corp {
 
 /* --- list of people -------------------------------------------------- */
 
+/* The row padding comes from .card. This rule sets the row's own grid shape
+   only — declaring `padding` here would be shorthand that zeroes the card's
+   horizontal inset and put the name back on the border, because .person is
+   declared after .card and wins on source order. */
 .person {
   display: grid;
-  grid-template-columns: 96px 1fr;
+  grid-template-columns: 96px minmax(0, 1fr);
   gap: 22px;
-  padding: 26px 0;
   border-bottom: var(--rule);
+}
+
+/* personCard emits four children — id, role, deflist, note — into a two-column
+   grid, so the deflist would auto-place into the 96px name column. Its label
+   column then floors at 160px and the value column is left at zero, which is
+   how the badge and room numbers came to print outside their card. Both wide
+   rows span the full width instead: name beside role, then the value rows
+   beneath, which is what the markup is describing. */
+.person > .deflist,
+.person > .person__note {
+  grid-column: 1 / -1;
 }
 
 .person__id {
@@ -597,6 +670,14 @@ body.corp {
   font-size: 15px;
   color: var(--text-dim);
   max-width: 62ch;
+}
+
+/* A badge is one unbroken token in a 96px/1fr track. Without an explicit break
+   opportunity the mono run is laid out at full width and pushes past the card
+   edge; break-word lets it wrap between characters only when it must. */
+.person__note .u-mono {
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* --- footer ---------------------------------------------------------- */
@@ -759,22 +840,32 @@ body.corp {
   color: var(--text-dim);
   max-width: 58ch;
 }
+/* The numbered lists on this site are written as `<ol class="prose">` — the ol
+   *is* the prose container, it does not sit inside one. Every rule below is
+   written as `.prose ol`, which only matches a list nested inside a prose div,
+   so none of it ever applied: the lists kept their native markers, lost the row
+   rules, and printed a browser number next to the manual one ("1. 01"). Each
+   selector is doubled here to match the ol itself as well. */
+ol.prose,
 .prose ol {
   list-style: none;
   margin: 0;
   padding: 0;
 }
-.prose ol li {
+ol.prose > li,
+.prose ol > li {
   padding: 13px 0;
   border-top: 1px solid var(--line);
   font-size: 16px;
   line-height: 1.55;
   color: var(--text-hi);
 }
-.prose ol li:last-child {
+ol.prose > li:last-child,
+.prose ol > li:last-child {
   border-bottom: 1px solid var(--line);
 }
-.prose ol li .u-mono {
+ol.prose > li .u-mono,
+.prose ol > li .u-mono {
   color: var(--accent-2);
   font-size: 12px;
   margin-right: 12px;

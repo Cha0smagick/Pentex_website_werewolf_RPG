@@ -172,6 +172,18 @@ samp {
 .u-mono {
   font-family: var(--mono);
   font-variant-numeric: tabular-nums;
+  /* break-word, not anywhere: `anywhere` feeds break opportunities into
+     min-content sizing, so the browser will happily split a value one
+     character per line rather than let it overflow. break-word only breaks a
+     token that genuinely cannot fit on its own line. */
+  overflow-wrap: break-word;
+}
+
+.u-note {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--text-dim);
+  max-width: 62ch;
 }
 
 .u-nowrap {

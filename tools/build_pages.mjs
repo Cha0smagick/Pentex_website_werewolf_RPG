@@ -51,6 +51,7 @@ ${breach ? '' : `<header class="masthead">
     <nav class="masthead__nav" id="mastnav" aria-label="Primary">
 ${nav}
       <a class="masthead__cta" href="portal.html">Restricted</a>
+      <a class="masthead__cta masthead__cta--meta" href="metagame.html">(METAGAME)</a>
     </nav>
   </div>
 </header>`}
@@ -85,6 +86,7 @@ ${breach ? '' : `<footer class="foot">
         <h3>Restricted</h3>
         <ul>
           <li><a href="portal.html">Employee portal</a></li>
+          <li><a href="metagame.html">(Metagame)</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
       </div>
@@ -146,6 +148,7 @@ const PAGES = [
       <div class="section__head">
         <p class="eyebrow">Vision</p>
         <h2>Where the group is going.</h2>
+        <p class="u-note">The concepts behind these pages &#8212; the cosmology, and where each idea becomes a document in the archive &#8212; are collected on the <a href="metagame.html">(metagame)</a> page.</p>
         <p class="rule-heavy"></p>
       </div>
       <div class="grid grid--2">
@@ -179,6 +182,75 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
       </div>
       <div class="grid grid--4" id="strategy"></div>
     </div>
+  </section>`
+  },
+
+  {
+    file: 'metagame.html',
+    active: 'metagame.html',
+    title: '(METAGAME) — how to read the archive, and the nine concepts',
+    description:
+      'Out-of-character guide to the Pentex archive: the nine Werewolf: The Apocalypse concepts a Chronicle needs, where each one becomes a document, and how the site is put together as a game.',
+    noData: true,
+    body: `  <section class="pagehead">
+    <div class="shell">
+      <p class="eyebrow">(Metagame)</p>
+      <h1>How to read this, and what it is made of.</h1>
+      <p>Everything on this page is out of character. It explains the cosmology, names the nine concepts the archive assumes, points at where each one becomes a document, and describes how the site itself works. Nothing here is corporate record, and nothing here is a secret: it is the reading guide, written openly on purpose.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <div class="section__head">
+        <p class="eyebrow">The shape of the thing</p>
+        <h2>Three layers, in the order you meet them.</h2>
+        <p class="rule-heavy"></p>
+      </div>
+      <div class="grid grid--3">
+        <article class="card">
+          <p class="card__k">Layer one</p>
+          <h3>The public floor</h3>
+          <p>Nine corporate pages: mission, leadership, facilities, sustainability, careers, newsroom, contact. They are deliberately plausible, because the plausibility is the mechanism. The credential is published here, in plain sight, in a table nobody was supposed to keep.</p>
+        </article>
+        <article class="card">
+          <p class="card__k">Layer two</p>
+          <h3>The gate</h3>
+          <p>One form asking for an employee identifier and a passphrase. There is no lockout and no rate limit, because nothing is secret. Both halves of the credential are on layer one; the only test is whether you notice that they are there.</p>
+        </article>
+        <article class="card">
+          <p class="card__k">Layer three</p>
+          <h3>The drop box</h3>
+          <p>A terminal holding 2,385 internal documents across 19 directories, plus a manifest at <span class="u-mono">/INDEX.txt</span>. Two hundred of those documents are hand-authored and carry the story; the rest exist so that searching feels like an archive.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="shell">
+      <div class="section__head">
+        <p class="eyebrow">The credential</p>
+        <h2>Both halves are published. That is the finding.</h2>
+        <p class="rule-heavy"></p>
+      </div>
+      <div class="grid grid--2">
+        <div>
+          <p class="lede">The refusal message on a third failed attempt says it outright: <i>Credential rejected. Both halves of this credential were published. Neither half is secret; that is the finding.</i> You are not cracking anything. You are reading a company website the way it was meant to be read, and noticing what it says about itself.</p>
+          <div class="strip">
+            <b>Employee identifier.</b>
+            <span>The certification and accountability directory on <a href="careers.html">Careers</a> lists staff with accountability room numbers. J. Venner sits in room 22-09, Regulatory Engineering. The portal asks for the badge identifier, so enter <span class="u-mono">j.venner</span>.</span>
+          </div>
+        </div>
+        <div>
+          <div class="strip strip--quiet">
+            <b>Passphrase.</b>
+            <span>The group publishes five values on <a href="about.html">About</a>. The second is <i>Measured Benefit</i>. The passphrase is that value with its first word lowercased: <span class="u-mono">measured</span>.</span>
+          </div>
+          <p class="u-mt">Inside the archive, once you are through, <span class="u-mono">/legal/credential_review_finding.txt</span> (reference <span class="u-mono">lg-h03</span>) formalises this as <i>Group Credential Standard CS-2004-11</i>, dated 2016-03-02, written by Group Information Security and reviewed by Group Legal. You do not build a verification standard for a small thing.</p>
+        </div>
+      </div>
+    </div>
   </section>
 
   <section class="section">
@@ -188,7 +260,7 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
         <h2>Nine concepts, and what they are called here.</h2>
         <p class="rule-heavy"></p>
       </div>
-      <p class="lede">Pentex is not an invented company. It is an invented company inside a specific fictional cosmology, and the cosmology does most of the work. The nine concepts below are the ones a Chronicle needs in order to read the archive correctly. Everything after this section on this page is playable material rather than corporate record.</p>
+      <p class="lede">Pentex is not an invented company. It is an invented company inside a specific fictional cosmology, and the cosmology does most of the work. The nine concepts below are the ones a Chronicle needs in order to read the archive correctly.</p>
       <ol class="prose">
         <li><span class="u-mono">01</span><b>Lycanthropy.</b> The curse. A person born with the Pelt, able to shift into wolf or any other animal form, sworn to Gaia for the duration of an unbreakable obligation. The player character is a Garou. Pentex has no idea which of its people are Garou, which is the entire difference between the two organisations.</li>
         <li><span class="u-mono">02</span><b>Gaia.</b> The Great Mother: the spirit of the living Earth. Not a goddess with a personality, but the planet&#8217;s own tendency back toward balance. She is never written down and never voted on. In the public record she appears exactly twice — as the name of a Foundation programme, and as the 41&nbsp;per cent holding in the Institute that awards Pentex its own prize.</li>
@@ -212,7 +284,7 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
       </div>
       <div class="dtable-wrap" tabindex="0">
       <table class="dtable">
-        <caption>Where each concept becomes a Pentex document.</caption>
+        <caption>Where each concept becomes a Pentex document. Every reference below exists in the drop box and is readable once you are through the gate.</caption>
         <thead>
           <tr><th scope="col">Concept</th><th scope="col">In this archive</th></tr>
         </thead>
@@ -227,6 +299,28 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
           <tr><td class="u-mono">/garou/gr-h10</td><td>The handoff. Four of the eleven will be gone within a year. The case will be won by a person reading a table carefully, not by a curse.</td></tr>
         </tbody>
       </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <div class="section__head">
+        <p class="eyebrow">The board</p>
+        <h2>What counts, and what the counter is for.</h2>
+        <p class="rule-heavy"></p>
+      </div>
+      <div class="grid grid--2">
+        <div>
+          <p>Reading a document is the only thing that counts. Searching is not reading. The terminal says this in its own help text, and it means it mechanically: the evidence board records documents you opened, not terms you searched for. A full sweep with <span class="u-mono">find</span> will leave the board at zero.</p>
+          <p>Case R9F-114 keeps the record, in order, in your own browser. Clearing your browser clears the board. There is no server holding it, because there is no server at all.</p>
+        </div>
+        <div>
+          <div class="strip">
+            <b>Two hundred documents are hand-authored.</b>
+            <span>Thirty-two spine documents plus 168 more, five to eleven per directory. The remaining 2,185 are generated, deterministically, so that the archive has the density a real leak would have — and so that searching it feels like work rather than like reading a brochure.</span>
+          </div>
+        </div>
       </div>
     </div>
   </section>
