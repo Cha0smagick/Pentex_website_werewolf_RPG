@@ -100,6 +100,7 @@
 
       var n = bumpAttempts();
       var line = REFUSALS[Math.min(n, REFUSALS.length) - 1];
+      if (n >= REFUSALS.length - 1) line = line + ' ' + P.CLUES.user.hint;
       if (n >= REFUSALS.length) line = line + ' ' + P.CLUES.pass.hint;
       say(line, 'bad');
 
