@@ -303,6 +303,85 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
     </div>
   </section>
 
+  <section class="section section--alt">
+    <div class="shell">
+      <div class="section__head">
+        <p class="eyebrow">Inside the drop box</p>
+        <h2>The eighteen commands, and the nineteen directories.</h2>
+        <p class="rule-heavy"></p>
+      </div>
+      <p class="lede">The terminal is not a prop. Everything below is implemented, and the command set is the whole of it &#8212; there is nothing hidden behind it. A session expires after 400 seconds of inactivity, and a directory you have not opened yet loads the first time you <span class="u-mono">ls</span> or <span class="u-mono">cd</span> into it, so an empty-looking folder may populate on the second look.</p>
+      <div class="dtable-wrap" tabindex="0">
+      <table class="dtable">
+        <caption>Every command, verbatim from the terminal&#8217;s own help output.</caption>
+        <thead>
+          <tr><th scope="col">Command</th><th scope="col">What it does</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="u-mono">ls [dir]</td><td>List a directory.</td></tr>
+          <tr><td class="u-mono">cd &lt;dir&gt;</td><td>Change directory.</td></tr>
+          <tr><td class="u-mono">pwd</td><td>Print working directory.</td></tr>
+          <tr><td class="u-mono">cat &lt;file&gt;</td><td>Open a document. This is the one that counts.</td></tr>
+          <tr><td class="u-mono">dec &lt;file&gt;</td><td>Decode a stored document. Takes <span class="u-mono">b64</span>, <span class="u-mono">hex</span> or <span class="u-mono">rot13</span>.</td></tr>
+          <tr><td class="u-mono">find &lt;term&gt;</td><td>Search every document. Does not count as reading.</td></tr>
+          <tr><td class="u-mono">stat &lt;file&gt;</td><td>Document metadata.</td></tr>
+          <tr><td class="u-mono">dl &lt;file&gt;</td><td>Download a document as .txt.</td></tr>
+          <tr><td class="u-mono">tree</td><td>The whole drop box, in one command.</td></tr>
+          <tr><td class="u-mono">who</td><td>The people named in this material.</td></tr>
+          <tr><td class="u-mono">product [code]</td><td>The catalogue, and what each line is for.</td></tr>
+          <tr><td class="u-mono">patent [number]</td><td>The patent estate.</td></tr>
+          <tr><td class="u-mono">magi [name]</td><td>External practitioners Pentex retains.</td></tr>
+          <tr><td class="u-mono">garou [name]</td><td>The Garou watch &#8212; allies, enemies, unresolved.</td></tr>
+          <tr><td class="u-mono">party [name]</td><td>Shippers, nominees, contractors, adversaries.</td></tr>
+          <tr><td class="u-mono">photos</td><td>The photographs recovered with it.</td></tr>
+          <tr><td class="u-mono">evidence</td><td>What you have actually read.</td></tr>
+          <tr><td class="u-mono">clear</td><td>Clear the screen.</td></tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <div class="section__head">
+        <p class="eyebrow">The map</p>
+        <h2>Nineteen directories, and the six programmes inside them.</h2>
+        <p class="rule-heavy"></p>
+      </div>
+      <p class="lede">The root holds <span class="u-mono">/INDEX.txt</span>, a manifest the archive provides for itself, plus nineteen directories. Six programme codes &#8212; CARRION, REDLINE, MAYFLY, CHOIR, PALIMPSEST and CAULDRON &#8212; recur as a column value throughout the CSV ledgers, and each has a summary document in <span class="u-mono">/black_programs</span>. Start with <span class="u-mono">programme_crosswalk.txt</span>; it maps all six onto each other and is the fastest way into the corpus.</p>
+      <div class="dtable-wrap" tabindex="0">
+      <table class="dtable">
+        <caption>What each directory holds.</caption>
+        <thead>
+          <tr><th scope="col">Directory</th><th scope="col">Holds</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="u-mono">/black_programs</td><td>Programme agendas, board papers, and the six programme summaries.</td></tr>
+          <tr><td class="u-mono">/board</td><td>Board minutes, resolutions, sub-committee material.</td></tr>
+          <tr><td class="u-mono">/clinical</td><td>Clinical programme records, trials, subjects.</td></tr>
+          <tr><td class="u-mono">/counterparties</td><td>Shippers, nominees, contractors, adversaries.</td></tr>
+          <tr><td class="u-mono">/field_ops</td><td>Site-level operational reports, rotations, deployments.</td></tr>
+          <tr><td class="u-mono">/finance</td><td>Wire ledgers, transfer trails, the Foundation&#8217;s money. Most of the CSVs.</td></tr>
+          <tr><td class="u-mono">/garou</td><td>The Garou watch. Allies, enemies, unresolved.</td></tr>
+          <tr><td class="u-mono">/legal</td><td>Statutes, hearings, opinions, the credential standard. Two encoded documents.</td></tr>
+          <tr><td class="u-mono">/magi</td><td>External practitioners Pentex retains.</td></tr>
+          <tr><td class="u-mono">/patents</td><td>The patent estate &#8212; what is claimed, and what it is for.</td></tr>
+          <tr><td class="u-mono">/personnel</td><td>Personnel records. The largest corpus.</td></tr>
+          <tr><td class="u-mono">/press</td><td>Drafted releases that were never issued.</td></tr>
+          <tr><td class="u-mono">/products</td><td>Product datasheets and the catalogue.</td></tr>
+          <tr><td class="u-mono">/r_and_d</td><td>Research and development. The technical spine.</td></tr>
+          <tr><td class="u-mono">/real_estate</td><td>Property, sites, rooms, the physical footprint.</td></tr>
+          <tr><td class="u-mono">/regulatory</td><td>Filings, compliance findings, statutory correspondence.</td></tr>
+          <tr><td class="u-mono">/security</td><td>Corporate Security, access logs, rotation orders.</td></tr>
+          <tr><td class="u-mono">/sublevel4</td><td>What was never meant to leave the building.</td></tr>
+          <tr><td class="u-mono">/supply</td><td>Supply chain, of every kind &#8212; including the worst kind.</td></tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </section>
+
   <section class="section">
     <div class="shell">
       <div class="section__head">
@@ -313,7 +392,7 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
       <div class="grid grid--2">
         <div>
           <p>Reading a document is the only thing that counts. Searching is not reading. The terminal says this in its own help text, and it means it mechanically: the evidence board records documents you opened, not terms you searched for. A full sweep with <span class="u-mono">find</span> will leave the board at zero.</p>
-          <p>Case R9F-114 keeps the record, in order, in your own browser. Clearing your browser clears the board. There is no server holding it, because there is no server at all.</p>
+          <p>Case R9F-114 keeps the record, in order, in your own browser. The counter on the board reads <span class="u-mono">n / 2385</span> and starts at zero. Clearing your browser clears the board. There is no server holding it, because there is no server at all.</p>
         </div>
         <div>
           <div class="strip">

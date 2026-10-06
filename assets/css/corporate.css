@@ -131,7 +131,12 @@ body.corp {
   top: 6px;
 }
 
-@media (max-width: 940px) {
+/* The nav row is a fixed 905px — ten items plus two outlined buttons — and it
+   does not shrink. Between 941px and about 1038px it therefore pushed the whole
+   document sideways instead of collapsing, because the burger used to appear
+   only at 940px. The breakpoint now sits above the width the row actually
+   needs, so the collapsed menu takes over before the row can overflow. */
+@media (max-width: 1100px) {
   .masthead__burger {
     display: block;
   }
@@ -587,6 +592,9 @@ body.corp {
   color: var(--text-faint);
   padding: 12px 16px 12px 0;
   border-bottom: var(--rule);
+  /* "FOUNDING COMBINE" at 0.12em tracking overruns the proportional label
+     column by a few pixels around 768px. */
+  overflow-wrap: break-word;
 }
 
 .deflist dd {
