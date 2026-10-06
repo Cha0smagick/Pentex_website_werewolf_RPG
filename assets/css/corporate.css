@@ -438,6 +438,7 @@ body.corp {
   margin-bottom: 14px;
 }
 
+.card h2,
 .card h3 {
   font-size: 19px;
   color: var(--text-hi);
@@ -451,6 +452,16 @@ body.corp {
 }
 
 /* --- data table ----------------------------------------------------- */
+
+/* A wide table scrolls inside its own box instead of pushing the whole page
+   sideways. The certification directory is six columns and the site register
+   five; on a 390px viewport they overrun the fold by 291px and 60px without
+   this. tabindex is what lets a keyboard user reach the scrollbar — see the
+   matching wrapper in tools/build_pages.mjs. */
+.dtable-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
 .dtable {
   width: 100%;
@@ -604,7 +615,7 @@ body.corp {
   border-bottom: var(--rule);
 }
 
-.foot h4 {
+.foot h3 {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.13em;

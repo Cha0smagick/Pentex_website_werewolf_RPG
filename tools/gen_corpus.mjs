@@ -14,7 +14,7 @@
 // Hand-written documents live in assets/js/archive/<dir>-hand.js and are never
 // touched here. This file only fills the directories that need volume.
 
-import { mkdirSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -971,7 +971,7 @@ function patent(h) {
   return hdr(h) +
     [
       `Filing: ${pick(['US', 'EP', 'WO', 'JP', 'CN', 'CA', 'BR'])}${rint(1000000, 9999999)}`,
-      `Family member of: ${pick(PATENTS_HOLDER)}`,
+      `Family member of: ${PATENTS_HOLDER.length ? pick(PATENTS_HOLDER) : 'none on file'}`,
       `Examiner: ${pick(['unattended', 'attended — interview held', 'attended — interview postponed', 'telephone interview'])}`,
       '',
       'OFFICE ACTION',
@@ -999,7 +999,31 @@ function patent(h) {
     ].join('\n') + foot(h);
 }
 
-let PATENTS_HOLDER = [];
+/* Patents is the one directory whose documents cross-reference a fact that lives
+   outside this file: the patent estate in lore.js. The corpus is built by a
+   top-level object literal further down, so every document is generated the moment
+   this module is evaluated — the numbers have to be in hand before then, or every
+   patent document ships "Family member of: undefined". lore.js reads
+   PENTEX.ARCHIVE.dirs out of data.js, so both files load, in that order. */
+let PATENTS_HOLDER = loadPatentNumbers();
+
+function loadPatentNumbers() {
+  try {
+    globalThis.window = {};
+    for (const name of ['data.js', 'lore.js']) {
+      new Function(readFileSync(join(ROOT, 'assets', 'js', name), 'utf8'))();
+    }
+    const numbers = (globalThis.window.PENTEX.PATENTS || []).map((p) => p.no);
+    if (!numbers.length) {
+      console.warn('  patents: no patent numbers found; family-member field degraded');
+    }
+    return numbers;
+  } catch (err) {
+    console.warn(`  patents: family-member field degraded (${err.message})`);
+    return [];
+  }
+}
+
 function prodSheet(h) {
   return hdr(h) +
     [
@@ -1342,25 +1366,5 @@ function emit() {
 }
 
 mkdirSync(OUT, { recursive: true });
-
-// patents needs the patent numbers from lore.js before it can reference them
-try {
-  const lore = join(ROOT, 'assets', 'js', 'lore.js');
-  if (existsSync(lore)) {
-    globalThis.window = {};
-    new Function(
-      readFileCompat(lore).replace('window.PENTEX', 'globalThis.window.PENTEX'),
-    )();
-    PATENTS_HOLDER = (globalThis.window.PENTEX.PATENTS || []).map((p) => p.no);
-  }
-} catch {
-  /* patent numbers are optional; the field degrades to "see file" */
-}
-
-function readFileCompat(p) {
-  // Small local read so this file stays dependency-free like the others.
-  const fs = require('node:fs');
-  return fs.readFileSync(p, 'utf8');
-}
 
 emit();

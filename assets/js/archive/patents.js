@@ -14,8 +14,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-23685\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Ingrid Halloran\nDate: 2025-12-01\nClassification: restricted — sub-level 4\nFiling: EP3601100\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 22389 USD.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2045
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-23685\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Ingrid Halloran\nDate: 2025-12-01\nClassification: restricted — sub-level 4\nFiling: EP3601100\nFamily member of: US 8,647,702\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 22389 USD.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2048
  },
  {
   "id": "PT-0rp",
@@ -28,8 +28,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-38504\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2020-09-18\nClassification: restricted — sub-level 4\nFiling: JP3209745\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 28597 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2017
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-38504\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2020-09-18\nClassification: restricted — sub-level 4\nFiling: JP3209745\nFamily member of: US 10,314,552\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 28597 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2021
  },
  {
   "id": "PT-0rq",
@@ -42,8 +42,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-64828\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rosalind Ojo\nDate: 2021-08-03\nClassification: restricted — sub-level 4\nFiling: WO8653827\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 1761 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1996
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-64828\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rosalind Ojo\nDate: 2021-08-03\nClassification: restricted — sub-level 4\nFiling: WO8653827\nFamily member of: WO 2024/011882\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 1761 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2001
  },
  {
   "id": "PT-0rr",
@@ -56,8 +56,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-14486\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Dagmar Vance\nDate: 2020-06-05\nClassification: by appointment\nFiling: BR8135929\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 32623 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2054
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-14486\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Dagmar Vance\nDate: 2020-06-05\nClassification: by appointment\nFiling: BR8135929\nFamily member of: US 11,588,004\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 32623 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2058
  },
  {
   "id": "PT-0rs",
@@ -70,8 +70,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-30796\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Okonjo\nDate: 2025-01-20\nClassification: unlimited\nFiling: WO4630604\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 22085 EUR.\nDisbursements are billed at cost plus 21%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2068
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-30796\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Okonjo\nDate: 2025-01-20\nClassification: unlimited\nFiling: WO4630604\nFamily member of: US 9,045,388\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 22085 EUR.\nDisbursements are billed at cost plus 21%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2071
  },
  {
   "id": "PT-0rt",
@@ -84,8 +84,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-77648\nSite: Cota station,Plot 6, Bogotá\nOriginator: Corvin Aurelian-Hale\nDate: 2025-10-24\nClassification: restricted — programme\nFiling: US4019432\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 2066 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2044
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-77648\nSite: Cota station,Plot 6, Bogotá\nOriginator: Corvin Aurelian-Hale\nDate: 2025-10-24\nClassification: restricted — programme\nFiling: US4019432\nFamily member of: US 9,045,388\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 2066 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2047
  },
  {
   "id": "PT-0ru",
@@ -98,8 +98,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-94241\nSite: Bow Valley research plot, Calgary\nOriginator: Rowan Kestrel\nDate: 2021-01-11\nClassification: confidential\nFiling: JP8136077\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 37795 EUR.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2065
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-94241\nSite: Bow Valley research plot, Calgary\nOriginator: Rowan Kestrel\nDate: 2021-01-11\nClassification: confidential\nFiling: JP8136077\nFamily member of: US 8,318,470\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 37795 EUR.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2068
  },
  {
   "id": "PT-0rv",
@@ -112,8 +112,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-49809\nSite: Cota station,Plot 6, Bogotá\nOriginator: Aurélie Novak\nDate: 2025-11-05\nClassification: unlimited\nFiling: CA5216072\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 8039 USD.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2019
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-49809\nSite: Cota station,Plot 6, Bogotá\nOriginator: Aurélie Novak\nDate: 2025-11-05\nClassification: unlimited\nFiling: CA5216072\nFamily member of: US 5,447,019\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 8039 USD.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2022
  },
  {
   "id": "PT-0rw",
@@ -126,8 +126,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-39121\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Joss Venner\nDate: 2022-01-23\nClassification: confidential\nFiling: EP5401391\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 15935 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2015
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-39121\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Joss Venner\nDate: 2022-01-23\nClassification: confidential\nFiling: EP5401391\nFamily member of: US 8,647,702\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 15935 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2018
  },
  {
   "id": "PT-0rx",
@@ -140,8 +140,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-93399\nSite: 4400 Bayhead Drive, Houston\nOriginator: Corvin Aurelian-Hale\nDate: 2025-09-21\nClassification: internal only\nFiling: WO2523381\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 26539 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2063
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-93399\nSite: 4400 Bayhead Drive, Houston\nOriginator: Corvin Aurelian-Hale\nDate: 2025-09-21\nClassification: internal only\nFiling: WO2523381\nFamily member of: US 8,318,470\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 26539 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2066
  },
  {
   "id": "PT-0ry",
@@ -154,8 +154,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-43688\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Nikolai Verin\nDate: 2025-12-13\nClassification: need to know\nFiling: US5914458\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n2 official fee(s). Total 18966 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1961
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-43688\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Nikolai Verin\nDate: 2025-12-13\nClassification: need to know\nFiling: US5914458\nFamily member of: US 9,402,115\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n2 official fee(s). Total 18966 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1964
  },
  {
   "id": "PT-0rz",
@@ -168,8 +168,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-75220\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2022-10-07\nClassification: restricted — sub-level 4\nFiling: WO6365887\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 8052 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2082
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-75220\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2022-10-07\nClassification: restricted — sub-level 4\nFiling: WO6365887\nFamily member of: WO 2024/044190\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 8052 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2087
  },
  {
   "id": "PT-0s0",
@@ -182,8 +182,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-86908\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Rosalind Ojo\nDate: 2025-01-04\nClassification: internal only\nFiling: BR9792693\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 12803 USD.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2027
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-86908\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Rosalind Ojo\nDate: 2025-01-04\nClassification: internal only\nFiling: BR9792693\nFamily member of: US 10,652,014\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 12803 USD.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2031
  },
  {
   "id": "PT-0s1",
@@ -196,8 +196,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-97630\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ilse Brandt\nDate: 2025-03-03\nClassification: restricted — sub-level 4\nFiling: EP7785697\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 11551 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2020
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-97630\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ilse Brandt\nDate: 2025-03-03\nClassification: restricted — sub-level 4\nFiling: EP7785697\nFamily member of: US 8,004,655\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 11551 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2023
  },
  {
   "id": "PT-0s2",
@@ -210,8 +210,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-57011\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Marcus Oyelowo\nDate: 2020-01-11\nClassification: by appointment\nFiling: CA7733140\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 39415 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2002
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-57011\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Marcus Oyelowo\nDate: 2020-01-11\nClassification: by appointment\nFiling: CA7733140\nFamily member of: US 4,318,882\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 39415 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2005
  },
  {
   "id": "PT-0s3",
@@ -224,8 +224,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-48318\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hector Villegas\nDate: 2023-08-04\nClassification: need to know\nFiling: US3005050\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n8 official fee(s). Total 3490 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1997
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-48318\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hector Villegas\nDate: 2023-08-04\nClassification: need to know\nFiling: US3005050\nFamily member of: US 7,559,290\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n8 official fee(s). Total 3490 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2000
  },
  {
   "id": "PT-0s4",
@@ -238,8 +238,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-54706\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rosalind Ojo\nDate: 2025-09-04\nClassification: confidential\nFiling: CN3895732\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 8370 EUR.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-54706\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rosalind Ojo\nDate: 2025-09-04\nClassification: confidential\nFiling: CN3895732\nFamily member of: US 7,204,116\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 8370 EUR.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2037
  },
  {
   "id": "PT-0s5",
@@ -252,8 +252,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-90771\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nadia Farouk\nDate: 2024-05-05\nClassification: confidential\nFiling: US9600413\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 11660 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2024
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-90771\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nadia Farouk\nDate: 2024-05-05\nClassification: confidential\nFiling: US9600413\nFamily member of: US 6,338,104\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 11660 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2027
  },
  {
   "id": "PT-0s6",
@@ -266,8 +266,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-90646\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Hollis Grange\nDate: 2025-04-12\nClassification: internal only\nFiling: CN4794985\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 11008 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2026
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-90646\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Hollis Grange\nDate: 2025-04-12\nClassification: internal only\nFiling: CN4794985\nFamily member of: US 11,588,004\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 11008 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2030
  },
  {
   "id": "PT-0s7",
@@ -280,8 +280,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-18872\nSite: Cota station,Plot 6, Bogotá\nOriginator: Fiona Loch\nDate: 2021-02-17\nClassification: by appointment\nFiling: EP5671389\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 15906 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2022
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-18872\nSite: Cota station,Plot 6, Bogotá\nOriginator: Fiona Loch\nDate: 2021-02-17\nClassification: by appointment\nFiling: EP5671389\nFamily member of: US 10,023,881\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 15906 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2026
  },
  {
   "id": "PT-0s8",
@@ -294,8 +294,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-75665\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ingrid Halloran\nDate: 2024-10-06\nClassification: internal only\nFiling: EP8495504\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 21843 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1972
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-75665\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ingrid Halloran\nDate: 2024-10-06\nClassification: internal only\nFiling: EP8495504\nFamily member of: US 11,588,004\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 21843 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1976
  },
  {
   "id": "PT-0s9",
@@ -308,8 +308,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-56744\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Abebe Tesfaye\nDate: 2024-03-17\nClassification: internal only\nFiling: BR9386073\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 32740 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2041
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-56744\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Abebe Tesfaye\nDate: 2024-03-17\nClassification: internal only\nFiling: BR9386073\nFamily member of: EP 4 011 863\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 32740 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2044
  },
  {
   "id": "PT-0sa",
@@ -322,8 +322,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-81675\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Owen Blackhall\nDate: 2025-05-10\nClassification: restricted — sub-level 4\nFiling: US9424448\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 7933 USD.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2012
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-81675\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Owen Blackhall\nDate: 2025-05-10\nClassification: restricted — sub-level 4\nFiling: US9424448\nFamily member of: US 6,338,104\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 7933 USD.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2015
  },
  {
   "id": "PT-0sb",
@@ -336,8 +336,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-57026\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2021-02-13\nClassification: need to know\nFiling: BR4120811\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 8175 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2039
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-57026\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2021-02-13\nClassification: need to know\nFiling: BR4120811\nFamily member of: US 10,652,014\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 8175 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2043
  },
  {
   "id": "PT-0sc",
@@ -350,8 +350,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-72062\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Piotr Zalewski\nDate: 2022-01-18\nClassification: by appointment\nFiling: US9334340\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 2379 USD.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1984
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-72062\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Piotr Zalewski\nDate: 2022-01-18\nClassification: by appointment\nFiling: US9334340\nFamily member of: US 7,559,290\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 2379 USD.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1987
  },
  {
   "id": "PT-0sd",
@@ -364,8 +364,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-23215\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Petra Ilves\nDate: 2023-09-24\nClassification: unlimited\nFiling: JP6448332\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 14503 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2026
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-23215\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Petra Ilves\nDate: 2023-09-24\nClassification: unlimited\nFiling: JP6448332\nFamily member of: US 5,447,019\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 14503 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2029
  },
  {
   "id": "PT-0se",
@@ -378,8 +378,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-77827\nSite: 4400 Bayhead Drive, Houston\nOriginator: Miriam Achterberg\nDate: 2019-02-19\nClassification: confidential\nFiling: BR5221352\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 25076 EUR.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1994
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-77827\nSite: 4400 Bayhead Drive, Houston\nOriginator: Miriam Achterberg\nDate: 2019-02-19\nClassification: confidential\nFiling: BR5221352\nFamily member of: US 10,652,014\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 25076 EUR.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1998
  },
  {
   "id": "PT-0sf",
@@ -392,8 +392,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-35889\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nikolai Verin\nDate: 2020-06-10\nClassification: need to know\nFiling: EP4116037\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 16805 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2024
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-35889\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nikolai Verin\nDate: 2020-06-10\nClassification: need to know\nFiling: EP4116037\nFamily member of: US 8,647,702\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 16805 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2027
  },
  {
   "id": "PT-0sg",
@@ -406,8 +406,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-59730\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2023-09-11\nClassification: confidential\nFiling: CA3167583\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 14322 USD.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2015
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-59730\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2023-09-11\nClassification: confidential\nFiling: CA3167583\nFamily member of: US 9,402,115\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 14322 USD.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2018
  },
  {
   "id": "PT-0sh",
@@ -420,8 +420,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-62072\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Rosalind Ojo\nDate: 2025-06-19\nClassification: internal only\nFiling: BR5132270\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 22760 EUR.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2011
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-62072\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Rosalind Ojo\nDate: 2025-06-19\nClassification: internal only\nFiling: BR5132270\nFamily member of: US 9,045,388\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 22760 EUR.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2014
  },
  {
   "id": "PT-0si",
@@ -434,8 +434,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-32019\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Anneke Brandt\nDate: 2022-02-19\nClassification: need to know\nFiling: BR6375497\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 32449 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2038
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-32019\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Anneke Brandt\nDate: 2022-02-19\nClassification: need to know\nFiling: BR6375497\nFamily member of: US 6,014,733\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 32449 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2041
  },
  {
   "id": "PT-0sj",
@@ -448,8 +448,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-14978\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Anneke Okonjo\nDate: 2021-08-01\nClassification: unlimited\nFiling: WO8350538\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 22181 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2007
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-14978\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Anneke Okonjo\nDate: 2021-08-01\nClassification: unlimited\nFiling: WO8350538\nFamily member of: US 6,912,880\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 22181 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2010
  },
  {
   "id": "PT-0sk",
@@ -462,8 +462,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-45550\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Beatriz Antunes-Vale\nDate: 2023-05-09\nClassification: internal only\nFiling: CA3605536\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 12019 EUR.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2076
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-45550\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Beatriz Antunes-Vale\nDate: 2023-05-09\nClassification: internal only\nFiling: CA3605536\nFamily member of: US 9,777,204\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 12019 EUR.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2079
  },
  {
   "id": "PT-0sl",
@@ -476,8 +476,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-72637\nSite: Cota station,Plot 6, Bogotá\nOriginator: Emil Sørensen\nDate: 2021-04-20\nClassification: confidential\nFiling: CN8201369\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 6805 EUR.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2042
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-72637\nSite: Cota station,Plot 6, Bogotá\nOriginator: Emil Sørensen\nDate: 2021-04-20\nClassification: confidential\nFiling: CN8201369\nFamily member of: US 4,318,882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 6805 EUR.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2045
  },
  {
   "id": "PT-0sm",
@@ -490,8 +490,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-39603\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dmitri Olevsky\nDate: 2019-10-22\nClassification: internal only\nFiling: CN1477872\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 32023 USD.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2022
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-39603\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dmitri Olevsky\nDate: 2019-10-22\nClassification: internal only\nFiling: CN1477872\nFamily member of: EP 4 011 863\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 32023 USD.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2025
  },
  {
   "id": "PT-0sn",
@@ -504,8 +504,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-98191\nSite: 4400 Bayhead Drive, Houston\nOriginator: Yusuf Bayram\nDate: 2022-05-26\nClassification: internal only\nFiling: BR2181667\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 19511 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2041
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-98191\nSite: 4400 Bayhead Drive, Houston\nOriginator: Yusuf Bayram\nDate: 2022-05-26\nClassification: internal only\nFiling: BR2181667\nFamily member of: US 9,402,115\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 19511 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2044
  },
  {
   "id": "PT-0so",
@@ -518,8 +518,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-39312\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Fiona Loch\nDate: 2022-06-06\nClassification: confidential\nFiling: CN9737311\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 2148 EUR.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2045
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-39312\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Fiona Loch\nDate: 2022-06-06\nClassification: confidential\nFiling: CN9737311\nFamily member of: US 6,014,733\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 2148 EUR.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2048
  },
  {
   "id": "PT-0sp",
@@ -532,8 +532,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-33075\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Hollis Grange\nDate: 2024-12-28\nClassification: unlimited\nFiling: CN4806249\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 20735 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2043
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-33075\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Hollis Grange\nDate: 2024-12-28\nClassification: unlimited\nFiling: CN4806249\nFamily member of: US 9,777,204\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 20735 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2046
  },
  {
   "id": "PT-0sq",
@@ -546,8 +546,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-80164\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Roderick Mbeki-Ng\nDate: 2025-08-24\nClassification: confidential\nFiling: JP8654788\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 9702 EUR.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2070
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-80164\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Roderick Mbeki-Ng\nDate: 2025-08-24\nClassification: confidential\nFiling: JP8654788\nFamily member of: US 6,912,880\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 9702 EUR.\nDisbursements are billed at cost plus 35%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2073
  },
  {
   "id": "PT-0sr",
@@ -560,8 +560,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-61631\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Marcus Oyelowo\nDate: 2023-04-19\nClassification: confidential\nFiling: EP6356105\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 2537 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2026
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-61631\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Marcus Oyelowo\nDate: 2023-04-19\nClassification: confidential\nFiling: EP6356105\nFamily member of: US 11,588,004\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 2537 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2030
  },
  {
   "id": "PT-0ss",
@@ -574,8 +574,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-16798\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ingrid Halloran\nDate: 2023-01-04\nClassification: internal only\nFiling: WO9793966\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 22102 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2053
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-16798\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ingrid Halloran\nDate: 2023-01-04\nClassification: internal only\nFiling: WO9793966\nFamily member of: US 4,318,882\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 22102 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2056
  },
  {
   "id": "PT-0st",
@@ -588,8 +588,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-69923\nSite: 4400 Bayhead Drive, Houston\nOriginator: Ruth Okpara\nDate: 2021-02-17\nClassification: confidential\nFiling: CN6929384\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 9254 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1995
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-69923\nSite: 4400 Bayhead Drive, Houston\nOriginator: Ruth Okpara\nDate: 2021-02-17\nClassification: confidential\nFiling: CN6929384\nFamily member of: WO 2024/044190\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 9254 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2000
  },
  {
   "id": "PT-0su",
@@ -602,8 +602,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-85369\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Duncan Meikle\nDate: 2025-09-03\nClassification: need to know\nFiling: WO4818397\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 39637 EUR.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2045
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-85369\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Duncan Meikle\nDate: 2025-09-03\nClassification: need to know\nFiling: WO4818397\nFamily member of: US 11,588,004\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 39637 EUR.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2049
  },
  {
   "id": "PT-0sv",
@@ -616,8 +616,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-74025\nSite: Bow Valley research plot, Calgary\nOriginator: Piotr Zalewski\nDate: 2020-11-04\nClassification: restricted — sub-level 4\nFiling: EP5127541\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 35717 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2066
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-74025\nSite: Bow Valley research plot, Calgary\nOriginator: Piotr Zalewski\nDate: 2020-11-04\nClassification: restricted — sub-level 4\nFiling: EP5127541\nFamily member of: US 9,045,388\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 35717 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2069
  },
  {
   "id": "PT-0sw",
@@ -630,8 +630,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-97711\nSite: Bow Valley research plot, Calgary\nOriginator: Ingrid Halloran\nDate: 2020-05-17\nClassification: confidential\nFiling: WO1839076\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 21019 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2019
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-97711\nSite: Bow Valley research plot, Calgary\nOriginator: Ingrid Halloran\nDate: 2020-05-17\nClassification: confidential\nFiling: WO1839076\nFamily member of: US 11,702,775\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 21019 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2023
  },
  {
   "id": "PT-0sx",
@@ -644,8 +644,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-57495\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Aurélie Novak\nDate: 2019-05-10\nClassification: by appointment\nFiling: CA5097249\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 24028 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2030
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-57495\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Aurélie Novak\nDate: 2019-05-10\nClassification: by appointment\nFiling: CA5097249\nFamily member of: US 10,023,881\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 24028 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2034
  },
  {
   "id": "PT-0sy",
@@ -658,8 +658,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-86372\nSite: 4400 Bayhead Drive, Houston\nOriginator: Tamsin Roache\nDate: 2022-08-02\nClassification: by appointment\nFiling: BR9324359\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 18885 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2015
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-86372\nSite: 4400 Bayhead Drive, Houston\nOriginator: Tamsin Roache\nDate: 2022-08-02\nClassification: by appointment\nFiling: BR9324359\nFamily member of: US 7,204,116\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 18885 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2018
  },
  {
   "id": "PT-0sz",
@@ -672,8 +672,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-24587\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Ingrid Halloran\nDate: 2019-07-13\nClassification: internal only\nFiling: CA7907702\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 18624 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2058
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-24587\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Ingrid Halloran\nDate: 2019-07-13\nClassification: internal only\nFiling: CA7907702\nFamily member of: US 8,647,702\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 18624 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2061
  },
  {
   "id": "PT-0t0",
@@ -686,8 +686,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-63374\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Corvin Aurelian-Hale\nDate: 2020-10-03\nClassification: restricted — sub-level 4\nFiling: CN8744094\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 35900 USD.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2039
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-63374\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Corvin Aurelian-Hale\nDate: 2020-10-03\nClassification: restricted — sub-level 4\nFiling: CN8744094\nFamily member of: US 5,110,442\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 35900 USD.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2042
  },
  {
   "id": "PT-0t1",
@@ -700,8 +700,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-92527\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Corvin Aurelian-Hale\nDate: 2021-08-05\nClassification: by appointment\nFiling: EP5241903\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 1504 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1973
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-92527\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Corvin Aurelian-Hale\nDate: 2021-08-05\nClassification: by appointment\nFiling: EP5241903\nFamily member of: US 9,045,388\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 1504 USD.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1976
  },
  {
   "id": "PT-0t2",
@@ -714,8 +714,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-37808\nSite: Bow Valley research plot, Calgary\nOriginator: Dagmar Vance\nDate: 2025-02-07\nClassification: by appointment\nFiling: CA6605555\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 27574 EUR.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2060
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-37808\nSite: Bow Valley research plot, Calgary\nOriginator: Dagmar Vance\nDate: 2025-02-07\nClassification: by appointment\nFiling: CA6605555\nFamily member of: US 8,318,470\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 27574 EUR.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2063
  },
  {
   "id": "PT-0t3",
@@ -728,8 +728,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-64924\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Konstantin Vhalen\nDate: 2024-03-28\nClassification: restricted — sub-level 4\nFiling: EP4051989\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 32581 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2043
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-64924\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Konstantin Vhalen\nDate: 2024-03-28\nClassification: restricted — sub-level 4\nFiling: EP4051989\nFamily member of: WO 2024/011882\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 32581 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2048
  },
  {
   "id": "PT-0t4",
@@ -742,8 +742,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-55480\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nikolai Verin\nDate: 2019-05-26\nClassification: restricted — sub-level 4\nFiling: JP8519862\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 35679 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2047
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-55480\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nikolai Verin\nDate: 2019-05-26\nClassification: restricted — sub-level 4\nFiling: JP8519862\nFamily member of: US 9,402,115\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 35679 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2050
  },
  {
   "id": "PT-0t5",
@@ -756,8 +756,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-30444\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Emil Sørensen\nDate: 2020-02-03\nClassification: by appointment\nFiling: WO3196159\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 22763 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2081
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-30444\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Emil Sørensen\nDate: 2020-02-03\nClassification: by appointment\nFiling: WO3196159\nFamily member of: US 8,318,470\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 22763 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2084
  },
  {
   "id": "PT-0t6",
@@ -770,8 +770,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-44766\nSite: 4400 Bayhead Drive, Houston\nOriginator: Lubomir Yezhov\nDate: 2021-04-22\nClassification: confidential\nFiling: EP7274268\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 7125 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1985
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-44766\nSite: 4400 Bayhead Drive, Houston\nOriginator: Lubomir Yezhov\nDate: 2021-04-22\nClassification: confidential\nFiling: EP7274268\nFamily member of: US 4,318,882\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n7 official fee(s). Total 7125 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1988
  },
  {
   "id": "PT-0t7",
@@ -784,8 +784,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-52208\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tomás Iriarte\nDate: 2025-03-08\nClassification: restricted — sub-level 4\nFiling: CA5196187\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 31114 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2038
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-52208\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tomás Iriarte\nDate: 2025-03-08\nClassification: restricted — sub-level 4\nFiling: CA5196187\nFamily member of: US 6,338,104\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 31114 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2041
  },
  {
   "id": "PT-0t8",
@@ -798,8 +798,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-99317\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2019-01-12\nClassification: restricted — sub-level 4\nFiling: CA5504227\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 530 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2036
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-99317\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Hollis Grange\nDate: 2019-01-12\nClassification: restricted — sub-level 4\nFiling: CA5504227\nFamily member of: US 11,011,447\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 530 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2040
  },
  {
   "id": "PT-0t9",
@@ -812,8 +812,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-52755\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Duncan Meikle\nDate: 2022-07-17\nClassification: restricted — programme\nFiling: CA3642921\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 12004 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2043
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-52755\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Duncan Meikle\nDate: 2022-07-17\nClassification: restricted — programme\nFiling: CA3642921\nFamily member of: US 6,014,733\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 12004 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2046
  },
  {
   "id": "PT-0ta",
@@ -826,8 +826,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-49664\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Brandt\nDate: 2025-10-24\nClassification: by appointment\nFiling: CA6567285\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 6599 EUR.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2020
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-49664\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Brandt\nDate: 2025-10-24\nClassification: by appointment\nFiling: CA6567285\nFamily member of: WO 2024/011882\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 6599 EUR.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2025
  },
  {
   "id": "PT-0tb",
@@ -840,8 +840,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-82618\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2022-07-01\nClassification: internal only\nFiling: EP8156908\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 34958 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1993
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-82618\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2022-07-01\nClassification: internal only\nFiling: EP8156908\nFamily member of: US 9,777,204\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 34958 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1996
  },
  {
   "id": "PT-0tc",
@@ -854,8 +854,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-34023\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Wei Lin\nDate: 2024-08-23\nClassification: restricted — sub-level 4\nFiling: US8777330\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 17666 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2044
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-34023\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Wei Lin\nDate: 2024-08-23\nClassification: restricted — sub-level 4\nFiling: US8777330\nFamily member of: WO 2024/011882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 17666 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2049
  },
  {
   "id": "PT-0td",
@@ -868,8 +868,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-57267\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Roderick Mbeki-Ng\nDate: 2022-07-21\nClassification: restricted — programme\nFiling: EP8053317\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n3 official fee(s). Total 33981 EUR.\nDisbursements are billed at cost plus 21%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2009
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-57267\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Roderick Mbeki-Ng\nDate: 2022-07-21\nClassification: restricted — programme\nFiling: EP8053317\nFamily member of: US 7,204,116\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n3 official fee(s). Total 33981 EUR.\nDisbursements are billed at cost plus 21%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2012
  },
  {
   "id": "PT-0te",
@@ -882,8 +882,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-86285\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Lars Holm\nDate: 2019-06-14\nClassification: confidential\nFiling: CA9881413\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 13953 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2026
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-86285\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Lars Holm\nDate: 2019-06-14\nClassification: confidential\nFiling: CA9881413\nFamily member of: US 11,404,318\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 13953 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2030
  },
  {
   "id": "PT-0tf",
@@ -896,8 +896,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-64999\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Joss Venner\nDate: 2019-03-03\nClassification: restricted — sub-level 4\nFiling: CA7664275\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 17536 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2052
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-64999\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Joss Venner\nDate: 2019-03-03\nClassification: restricted — sub-level 4\nFiling: CA7664275\nFamily member of: US 6,912,880\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 17536 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2055
  },
  {
   "id": "PT-0tg",
@@ -910,8 +910,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-30019\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Sara Beaulieu\nDate: 2025-10-14\nClassification: confidential\nFiling: CA9620775\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 7737 USD.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2038
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-30019\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Sara Beaulieu\nDate: 2025-10-14\nClassification: confidential\nFiling: CA9620775\nFamily member of: US 5,110,442\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 7737 USD.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2041
  },
  {
   "id": "PT-0th",
@@ -924,8 +924,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-18436\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tomás Iriarte\nDate: 2022-01-28\nClassification: restricted — programme\nFiling: EP2791443\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 9249 EUR.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2064
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-18436\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tomás Iriarte\nDate: 2022-01-28\nClassification: restricted — programme\nFiling: EP2791443\nFamily member of: US 7,559,290\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 9249 EUR.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2067
  },
  {
   "id": "PT-0ti",
@@ -938,8 +938,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-39863\nSite: Cota station,Plot 6, Bogotá\nOriginator: Joss Venner\nDate: 2021-10-16\nClassification: internal only\nFiling: CA2793545\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 18521 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2024
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-39863\nSite: Cota station,Plot 6, Bogotá\nOriginator: Joss Venner\nDate: 2021-10-16\nClassification: internal only\nFiling: CA2793545\nFamily member of: US 11,011,447\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 18521 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2028
  },
  {
   "id": "PT-0tj",
@@ -952,8 +952,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-29482\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Beatriz Antunes-Vale\nDate: 2019-03-23\nClassification: internal only\nFiling: CA4385120\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 12857 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2048
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-29482\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Beatriz Antunes-Vale\nDate: 2019-03-23\nClassification: internal only\nFiling: CA4385120\nFamily member of: US 8,318,470\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 12857 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2051
  },
  {
   "id": "PT-0tk",
@@ -966,8 +966,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-55824\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Rosalind Ojo\nDate: 2024-12-03\nClassification: restricted — programme\nFiling: CA2519628\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 9208 EUR.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2008
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-55824\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Rosalind Ojo\nDate: 2024-12-03\nClassification: restricted — programme\nFiling: CA2519628\nFamily member of: US 10,023,881\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 9208 EUR.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2012
  },
  {
   "id": "PT-0tl",
@@ -980,8 +980,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-61212\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Aurélie Novak\nDate: 2021-03-12\nClassification: by appointment\nFiling: EP2432326\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 35186 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1983
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-61212\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Aurélie Novak\nDate: 2021-03-12\nClassification: by appointment\nFiling: EP2432326\nFamily member of: US 8,318,470\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 35186 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1986
  },
  {
   "id": "PT-0tm",
@@ -994,8 +994,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-15472\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Beatriz Antunes-Vale\nDate: 2025-03-12\nClassification: unlimited\nFiling: WO2258603\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 9001 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2036
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-15472\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Beatriz Antunes-Vale\nDate: 2025-03-12\nClassification: unlimited\nFiling: WO2258603\nFamily member of: EP 4 011 863\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 9001 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2039
  },
  {
   "id": "PT-0tn",
@@ -1008,8 +1008,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-45453\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Claude Thibault\nDate: 2023-08-22\nClassification: restricted — programme\nFiling: JP3636729\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 30028 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2052
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-45453\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Claude Thibault\nDate: 2023-08-22\nClassification: restricted — programme\nFiling: JP3636729\nFamily member of: US 11,702,775\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 30028 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2056
  },
  {
   "id": "PT-0to",
@@ -1022,8 +1022,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-45359\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Duncan Meikle\nDate: 2025-04-07\nClassification: confidential\nFiling: US2847790\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 33758 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2005
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-45359\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Duncan Meikle\nDate: 2025-04-07\nClassification: confidential\nFiling: US2847790\nFamily member of: EP 3 884 210\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 33758 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2008
  },
  {
   "id": "PT-0tp",
@@ -1036,8 +1036,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-88101\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Rosalind Ojo\nDate: 2024-05-26\nClassification: unlimited\nFiling: BR7179247\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 28408 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2017
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-88101\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Rosalind Ojo\nDate: 2024-05-26\nClassification: unlimited\nFiling: BR7179247\nFamily member of: WO 2024/044190\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n1 official fee(s). Total 28408 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2022
  },
  {
   "id": "PT-0tq",
@@ -1050,8 +1050,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-16900\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Fiona Loch\nDate: 2021-09-18\nClassification: restricted — sub-level 4\nFiling: EP1999034\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 26330 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2048
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-16900\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Fiona Loch\nDate: 2021-09-18\nClassification: restricted — sub-level 4\nFiling: EP1999034\nFamily member of: WO 2024/011882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 26330 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2053
  },
  {
   "id": "PT-0tr",
@@ -1064,8 +1064,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-83094\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2021-02-15\nClassification: restricted — programme\nFiling: US4946105\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 8207 EUR.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2014
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-83094\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2021-02-15\nClassification: restricted — programme\nFiling: US4946105\nFamily member of: US 7,559,290\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 8207 EUR.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2017
  },
  {
   "id": "PT-0ts",
@@ -1078,8 +1078,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-48353\nSite: Bow Valley research plot, Calgary\nOriginator: Abebe Tesfaye\nDate: 2021-07-07\nClassification: by appointment\nFiling: WO9968545\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 11836 USD.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2058
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-48353\nSite: Bow Valley research plot, Calgary\nOriginator: Abebe Tesfaye\nDate: 2021-07-07\nClassification: by appointment\nFiling: WO9968545\nFamily member of: US 11,702,775\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 11836 USD.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2062
  },
  {
   "id": "PT-0tt",
@@ -1092,8 +1092,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-38717\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Abebe Tesfaye\nDate: 2019-02-25\nClassification: restricted — sub-level 4\nFiling: JP1792570\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n3 official fee(s). Total 13237 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2062
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-38717\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Abebe Tesfaye\nDate: 2019-02-25\nClassification: restricted — sub-level 4\nFiling: JP1792570\nFamily member of: US 10,652,014\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n3 official fee(s). Total 13237 USD.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2066
  },
  {
   "id": "PT-0tu",
@@ -1106,8 +1106,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-26557\nSite: Bow Valley research plot, Calgary\nOriginator: Hector Villegas\nDate: 2025-09-06\nClassification: internal only\nFiling: CN1663178\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 32696 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2050
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-26557\nSite: Bow Valley research plot, Calgary\nOriginator: Hector Villegas\nDate: 2025-09-06\nClassification: internal only\nFiling: CN1663178\nFamily member of: WO 2024/044190\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 32696 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2055
  },
  {
   "id": "PT-0tv",
@@ -1120,8 +1120,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-79259\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Lubomir Yezhov\nDate: 2025-07-08\nClassification: internal only\nFiling: CN5803238\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 28185 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2048
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-79259\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Lubomir Yezhov\nDate: 2025-07-08\nClassification: internal only\nFiling: CN5803238\nFamily member of: WO 2024/011882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 28185 USD.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2053
  },
  {
   "id": "PT-0tw",
@@ -1134,8 +1134,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-13465\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Hollis Grange\nDate: 2024-10-22\nClassification: confidential\nFiling: US5235031\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 8643 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2072
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-13465\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Hollis Grange\nDate: 2024-10-22\nClassification: confidential\nFiling: US5235031\nFamily member of: US 11,588,004\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 8643 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2076
  },
  {
   "id": "PT-0tx",
@@ -1148,8 +1148,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-93971\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Marcus Oyelowo\nDate: 2020-01-10\nClassification: internal only\nFiling: US8214224\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 25300 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2046
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-93971\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Marcus Oyelowo\nDate: 2020-01-10\nClassification: internal only\nFiling: US8214224\nFamily member of: US 11,702,775\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 25300 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2050
  },
  {
   "id": "PT-0ty",
@@ -1162,8 +1162,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-46300\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2023-06-12\nClassification: restricted — programme\nFiling: CA5740073\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 32951 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2014
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-46300\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2023-06-12\nClassification: restricted — programme\nFiling: CA5740073\nFamily member of: US 7,204,116\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 32951 EUR.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2017
  },
  {
   "id": "PT-0tz",
@@ -1176,8 +1176,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-64110\nSite: Bow Valley research plot, Calgary\nOriginator: Konstantin Vhalen\nDate: 2023-09-08\nClassification: restricted — programme\nFiling: WO9846390\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 8447 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2042
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-64110\nSite: Bow Valley research plot, Calgary\nOriginator: Konstantin Vhalen\nDate: 2023-09-08\nClassification: restricted — programme\nFiling: WO9846390\nFamily member of: US 11,588,004\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 8447 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2046
  },
  {
   "id": "PT-0u0",
@@ -1190,8 +1190,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-86672\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Sara Beaulieu\nDate: 2022-11-28\nClassification: restricted — sub-level 4\nFiling: CN2549644\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 23022 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2063
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-86672\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Sara Beaulieu\nDate: 2022-11-28\nClassification: restricted — sub-level 4\nFiling: CN2549644\nFamily member of: WO 2024/044190\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 23022 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2068
  },
  {
   "id": "PT-0u1",
@@ -1204,8 +1204,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-73613\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Hector Villegas\nDate: 2020-04-01\nClassification: unlimited\nFiling: JP8183626\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 15681 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2051
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-73613\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Hector Villegas\nDate: 2020-04-01\nClassification: unlimited\nFiling: JP8183626\nFamily member of: US 8,004,655\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 15681 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2054
  },
  {
   "id": "PT-0u2",
@@ -1218,8 +1218,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-17836\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Beatriz Antunes-Vale\nDate: 2022-05-20\nClassification: by appointment\nFiling: CN5843469\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 16278 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2031
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-17836\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Beatriz Antunes-Vale\nDate: 2022-05-20\nClassification: by appointment\nFiling: CN5843469\nFamily member of: EP 3 884 210\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 16278 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2034
  },
  {
   "id": "PT-0u3",
@@ -1232,8 +1232,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-60051\nSite: 4400 Bayhead Drive, Houston\nOriginator: Piotr Zalewski\nDate: 2025-01-22\nClassification: by appointment\nFiling: CA2797409\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 36503 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2042
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-60051\nSite: 4400 Bayhead Drive, Houston\nOriginator: Piotr Zalewski\nDate: 2025-01-22\nClassification: by appointment\nFiling: CA2797409\nFamily member of: US 8,318,470\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 36503 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2045
  },
  {
   "id": "PT-0u4",
@@ -1246,8 +1246,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-39406\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Roderick Mbeki-Ng\nDate: 2024-07-24\nClassification: confidential\nFiling: JP9901324\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 19223 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2081
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-39406\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Roderick Mbeki-Ng\nDate: 2024-07-24\nClassification: confidential\nFiling: JP9901324\nFamily member of: US 11,404,318\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 19223 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2085
  },
  {
   "id": "PT-0u5",
@@ -1260,8 +1260,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-45145\nSite: Bow Valley research plot, Calgary\nOriginator: Ruth Okpara\nDate: 2025-01-05\nClassification: confidential\nFiling: CA2643552\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 32190 USD.\nDisbursements are billed at cost plus 40%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2033
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-45145\nSite: Bow Valley research plot, Calgary\nOriginator: Ruth Okpara\nDate: 2025-01-05\nClassification: confidential\nFiling: CA2643552\nFamily member of: US 9,777,204\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 32190 USD.\nDisbursements are billed at cost plus 40%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2036
  },
  {
   "id": "PT-0u6",
@@ -1274,8 +1274,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-34088\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Nikolai Verin\nDate: 2019-05-24\nClassification: by appointment\nFiling: BR7062008\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 31446 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2027
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-34088\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Nikolai Verin\nDate: 2019-05-24\nClassification: by appointment\nFiling: BR7062008\nFamily member of: WO 2024/011882\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 31446 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2032
  },
  {
   "id": "PT-0u7",
@@ -1288,8 +1288,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-14502\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Dagmar Vance\nDate: 2022-06-22\nClassification: need to know\nFiling: WO9483787\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 9839 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2010
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-14502\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Dagmar Vance\nDate: 2022-06-22\nClassification: need to know\nFiling: WO9483787\nFamily member of: EP 3 884 210\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 9839 USD.\nDisbursements are billed at cost plus 16%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2013
  },
  {
   "id": "PT-0u8",
@@ -1302,8 +1302,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-51045\nSite: Cota station,Plot 6, Bogotá\nOriginator: Beatriz Antunes-Vale\nDate: 2020-10-08\nClassification: internal only\nFiling: JP4293403\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 24462 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2021
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-51045\nSite: Cota station,Plot 6, Bogotá\nOriginator: Beatriz Antunes-Vale\nDate: 2020-10-08\nClassification: internal only\nFiling: JP4293403\nFamily member of: WO 2024/044190\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 24462 USD.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2026
  },
  {
   "id": "PT-0u9",
@@ -1316,8 +1316,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-90330\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Roderick Mbeki-Ng\nDate: 2024-11-19\nClassification: restricted — programme\nFiling: JP3136705\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 22093 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2072
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-90330\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Roderick Mbeki-Ng\nDate: 2024-11-19\nClassification: restricted — programme\nFiling: JP3136705\nFamily member of: US 7,204,116\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 22093 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2075
  },
  {
   "id": "PT-0ua",
@@ -1330,8 +1330,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-81944\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Grigor Malesic\nDate: 2023-10-27\nClassification: restricted — programme\nFiling: US1246218\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 22986 EUR.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2057
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-81944\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Grigor Malesic\nDate: 2023-10-27\nClassification: restricted — programme\nFiling: US1246218\nFamily member of: WO 2024/011882\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 22986 EUR.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2062
  },
  {
   "id": "PT-0ub",
@@ -1344,8 +1344,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-14334\nSite: Bow Valley research plot, Calgary\nOriginator: Roderick Mbeki-Ng\nDate: 2025-05-12\nClassification: confidential\nFiling: WO9508673\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 23600 EUR.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2073
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-14334\nSite: Bow Valley research plot, Calgary\nOriginator: Roderick Mbeki-Ng\nDate: 2025-05-12\nClassification: confidential\nFiling: WO9508673\nFamily member of: US 8,647,702\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 23600 EUR.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2076
  },
  {
   "id": "PT-0uc",
@@ -1358,8 +1358,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-46969\nSite: Bow Valley research plot, Calgary\nOriginator: Aurélie Novak\nDate: 2020-02-18\nClassification: confidential\nFiling: BR3329799\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 8786 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2067
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-46969\nSite: Bow Valley research plot, Calgary\nOriginator: Aurélie Novak\nDate: 2020-02-18\nClassification: confidential\nFiling: BR3329799\nFamily member of: WO 2024/044190\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 8786 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2072
  },
  {
   "id": "PT-0ud",
@@ -1372,8 +1372,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-74961\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Duncan Meikle\nDate: 2021-05-03\nClassification: restricted — programme\nFiling: US8192060\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n3 official fee(s). Total 39394 USD.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2031
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-74961\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Duncan Meikle\nDate: 2021-05-03\nClassification: restricted — programme\nFiling: US8192060\nFamily member of: EP 3 884 210\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n3 official fee(s). Total 39394 USD.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2034
  },
  {
   "id": "PT-0ue",
@@ -1386,8 +1386,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-34189\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2024-12-13\nClassification: restricted — programme\nFiling: BR1094072\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 4350 EUR.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2040
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-34189\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2024-12-13\nClassification: restricted — programme\nFiling: BR1094072\nFamily member of: US 9,045,388\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 4350 EUR.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2043
  },
  {
   "id": "PT-0uf",
@@ -1400,8 +1400,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-49367\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nadia Farouk\nDate: 2023-05-10\nClassification: need to know\nFiling: BR7737616\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 34566 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2047
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-49367\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Nadia Farouk\nDate: 2023-05-10\nClassification: need to know\nFiling: BR7737616\nFamily member of: US 9,777,204\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 34566 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2050
  },
  {
   "id": "PT-0ug",
@@ -1414,8 +1414,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-93431\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2021-04-08\nClassification: internal only\nFiling: BR6165505\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 3144 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2005
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-93431\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2021-04-08\nClassification: internal only\nFiling: BR6165505\nFamily member of: US 11,588,004\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 3144 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2009
  },
  {
   "id": "PT-0uh",
@@ -1428,8 +1428,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-50069\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Marcus Oyelowo\nDate: 2022-09-25\nClassification: restricted — sub-level 4\nFiling: CA5530918\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 30029 USD.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2014
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-50069\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Marcus Oyelowo\nDate: 2022-09-25\nClassification: restricted — sub-level 4\nFiling: CA5530918\nFamily member of: US 9,402,115\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 30029 USD.\nDisbursements are billed at cost plus 7%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2017
  },
  {
   "id": "PT-0ui",
@@ -1442,8 +1442,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-23889\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ruth Okpara\nDate: 2023-08-03\nClassification: need to know\nFiling: JP6457832\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 36828 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1992
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-23889\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ruth Okpara\nDate: 2023-08-03\nClassification: need to know\nFiling: JP6457832\nFamily member of: US 11,404,318\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 36828 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1996
  },
  {
   "id": "PT-0uj",
@@ -1456,8 +1456,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-48535\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2023-01-08\nClassification: need to know\nFiling: CA7305843\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 11722 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1992
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-48535\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2023-01-08\nClassification: need to know\nFiling: CA7305843\nFamily member of: US 11,404,318\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 11722 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1996
  },
  {
   "id": "PT-0uk",
@@ -1470,8 +1470,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-12057\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Miriam Achterberg\nDate: 2019-08-16\nClassification: unlimited\nFiling: CA4519705\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 13352 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2081
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-12057\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Miriam Achterberg\nDate: 2019-08-16\nClassification: unlimited\nFiling: CA4519705\nFamily member of: US 11,404,318\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 13352 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2085
  },
  {
   "id": "PT-0ul",
@@ -1484,8 +1484,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-43770\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2021-11-04\nClassification: internal only\nFiling: CN6121587\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 37759 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2052
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-43770\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2021-11-04\nClassification: internal only\nFiling: CN6121587\nFamily member of: EP 3 884 210\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 37759 EUR.\nDisbursements are billed at cost plus 15%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2055
  },
  {
   "id": "PT-0um",
@@ -1498,8 +1498,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-57630\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Tamsin Roache\nDate: 2019-04-16\nClassification: restricted — sub-level 4\nFiling: JP7256996\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 33976 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2073
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-57630\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Tamsin Roache\nDate: 2019-04-16\nClassification: restricted — sub-level 4\nFiling: JP7256996\nFamily member of: US 6,014,733\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 33976 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2076
  },
  {
   "id": "PT-0un",
@@ -1512,8 +1512,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-11907\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Joss Venner\nDate: 2023-12-28\nClassification: confidential\nFiling: BR2647738\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 33559 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2039
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-11907\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Joss Venner\nDate: 2023-12-28\nClassification: confidential\nFiling: BR2647738\nFamily member of: US 6,014,733\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 33559 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2042
  },
  {
   "id": "PT-0uo",
@@ -1526,8 +1526,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-61002\nSite: 4400 Bayhead Drive, Houston\nOriginator: Claude Thibault\nDate: 2025-06-12\nClassification: unlimited\nFiling: EP5317929\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 16038 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2058
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-61002\nSite: 4400 Bayhead Drive, Houston\nOriginator: Claude Thibault\nDate: 2025-06-12\nClassification: unlimited\nFiling: EP5317929\nFamily member of: US 11,011,447\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 16038 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2062
  },
  {
   "id": "PT-0up",
@@ -1540,8 +1540,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-23738\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Fiona Loch\nDate: 2021-04-03\nClassification: restricted — programme\nFiling: JP7174074\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 35114 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1996
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-23738\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Fiona Loch\nDate: 2021-04-03\nClassification: restricted — programme\nFiling: JP7174074\nFamily member of: EP 3 884 210\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 35114 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1999
  },
  {
   "id": "PT-0uq",
@@ -1554,8 +1554,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-50378\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Piotr Zalewski\nDate: 2025-07-08\nClassification: restricted — sub-level 4\nFiling: JP2537437\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 5403 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2087
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-50378\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Piotr Zalewski\nDate: 2025-07-08\nClassification: restricted — sub-level 4\nFiling: JP2537437\nFamily member of: EP 4 011 863\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 5403 USD.\nDisbursements are billed at cost plus 20%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2090
  },
  {
   "id": "PT-0ur",
@@ -1568,8 +1568,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-56175\nSite: Cota station,Plot 6, Bogotá\nOriginator: Anneke Brandt\nDate: 2023-01-23\nClassification: need to know\nFiling: CA6343726\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 4340 EUR.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-56175\nSite: Cota station,Plot 6, Bogotá\nOriginator: Anneke Brandt\nDate: 2023-01-23\nClassification: need to know\nFiling: CA6343726\nFamily member of: EP 3 884 210\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 4340 EUR.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2037
  },
  {
   "id": "PT-0us",
@@ -1582,8 +1582,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-31273\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Grigor Malesic\nDate: 2024-10-04\nClassification: confidential\nFiling: CA6348403\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 22563 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2055
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-31273\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Grigor Malesic\nDate: 2024-10-04\nClassification: confidential\nFiling: CA6348403\nFamily member of: US 5,447,019\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 22563 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2058
  },
  {
   "id": "PT-0ut",
@@ -1596,8 +1596,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-60955\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Lars Holm\nDate: 2023-06-27\nClassification: unlimited\nFiling: CA5420861\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 35699 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2040
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-60955\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Lars Holm\nDate: 2023-06-27\nClassification: unlimited\nFiling: CA5420861\nFamily member of: EP 4 011 863\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 35699 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2043
  },
  {
   "id": "PT-0uu",
@@ -1610,8 +1610,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-11579\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Nadia Farouk\nDate: 2024-11-21\nClassification: restricted — sub-level 4\nFiling: CA1222409\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 8338 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2060
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-11579\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Nadia Farouk\nDate: 2024-11-21\nClassification: restricted — sub-level 4\nFiling: CA1222409\nFamily member of: US 7,559,290\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 8338 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2063
  },
  {
   "id": "PT-0uv",
@@ -1624,8 +1624,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-41468\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ruth Okpara\nDate: 2025-07-12\nClassification: confidential\nFiling: BR3798500\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 29690 USD.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2002
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-41468\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ruth Okpara\nDate: 2025-07-12\nClassification: confidential\nFiling: BR3798500\nFamily member of: US 9,777,204\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n5 official fee(s). Total 29690 USD.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2005
  },
  {
   "id": "PT-0uw",
@@ -1638,8 +1638,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-31450\nSite: 4400 Bayhead Drive, Houston\nOriginator: Anneke Brandt\nDate: 2022-03-27\nClassification: need to know\nFiling: WO2627566\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n4 official fee(s). Total 23853 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1972
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-31450\nSite: 4400 Bayhead Drive, Houston\nOriginator: Anneke Brandt\nDate: 2022-03-27\nClassification: need to know\nFiling: WO2627566\nFamily member of: US 7,204,116\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n4 official fee(s). Total 23853 USD.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1975
  },
  {
   "id": "PT-0ux",
@@ -1652,8 +1652,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-90692\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Marcus Oyelowo\nDate: 2020-09-09\nClassification: restricted — programme\nFiling: BR9211580\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 32927 EUR.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2087
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-90692\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Marcus Oyelowo\nDate: 2020-09-09\nClassification: restricted — programme\nFiling: BR9211580\nFamily member of: WO 2024/011882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n7 official fee(s). Total 32927 EUR.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2092
  },
  {
   "id": "PT-0uy",
@@ -1666,8 +1666,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-84702\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Beatriz Antunes-Vale\nDate: 2023-01-07\nClassification: confidential\nFiling: CA8533969\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 3597 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2050
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-84702\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Beatriz Antunes-Vale\nDate: 2023-01-07\nClassification: confidential\nFiling: CA8533969\nFamily member of: US 10,652,014\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 3597 USD.\nDisbursements are billed at cost plus 13%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2054
  },
  {
   "id": "PT-0uz",
@@ -1680,8 +1680,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-25630\nSite: 4400 Bayhead Drive, Houston\nOriginator: Yusuf Bayram\nDate: 2023-07-03\nClassification: need to know\nFiling: WO7571107\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 17339 EUR.\nDisbursements are billed at cost plus 23%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2013
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-25630\nSite: 4400 Bayhead Drive, Houston\nOriginator: Yusuf Bayram\nDate: 2023-07-03\nClassification: need to know\nFiling: WO7571107\nFamily member of: US 7,204,116\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 17339 EUR.\nDisbursements are billed at cost plus 23%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2016
  },
  {
   "id": "PT-0v0",
@@ -1694,8 +1694,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-54858\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2022-06-05\nClassification: restricted — sub-level 4\nFiling: JP9501907\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 2080 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2046
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-54858\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Dmitri Olevsky\nDate: 2022-06-05\nClassification: restricted — sub-level 4\nFiling: JP9501907\nFamily member of: US 6,014,733\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 2080 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2049
  },
  {
   "id": "PT-0v1",
@@ -1708,8 +1708,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-95518\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Rosalind Ojo\nDate: 2025-07-12\nClassification: by appointment\nFiling: EP6833656\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 23186 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1968
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-95518\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Rosalind Ojo\nDate: 2025-07-12\nClassification: by appointment\nFiling: EP6833656\nFamily member of: US 10,023,881\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n3 official fee(s). Total 23186 USD.\nDisbursements are billed at cost plus 33%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1972
  },
  {
   "id": "PT-0v2",
@@ -1722,8 +1722,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-75366\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rosalind Ojo\nDate: 2023-02-19\nClassification: need to know\nFiling: CN9297316\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 25770 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1960
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-75366\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rosalind Ojo\nDate: 2023-02-19\nClassification: need to know\nFiling: CN9297316\nFamily member of: US 6,912,880\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n6 official fee(s). Total 25770 EUR.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1963
  },
  {
   "id": "PT-0v3",
@@ -1736,8 +1736,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-66372\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Anneke Okonjo\nDate: 2021-08-08\nClassification: internal only\nFiling: WO7505401\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 33364 EUR.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2059
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-66372\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Anneke Okonjo\nDate: 2021-08-08\nClassification: internal only\nFiling: WO7505401\nFamily member of: US 9,777,204\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 33364 EUR.\nDisbursements are billed at cost plus 10%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2062
  },
  {
   "id": "PT-0v4",
@@ -1750,8 +1750,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-13101\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Anneke Okonjo\nDate: 2019-05-04\nClassification: unlimited\nFiling: JP8640061\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n2 official fee(s). Total 16372 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1974
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-13101\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Anneke Okonjo\nDate: 2019-05-04\nClassification: unlimited\nFiling: JP8640061\nFamily member of: US 6,338,104\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n2 official fee(s). Total 16372 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1977
  },
  {
   "id": "PT-0v5",
@@ -1764,8 +1764,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-26158\nSite: 4400 Bayhead Drive, Houston\nOriginator: Tomás Iriarte\nDate: 2020-02-23\nClassification: restricted — programme\nFiling: JP5688142\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 39709 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2028
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-26158\nSite: 4400 Bayhead Drive, Houston\nOriginator: Tomás Iriarte\nDate: 2020-02-23\nClassification: restricted — programme\nFiling: JP5688142\nFamily member of: US 6,912,880\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 39709 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2031
  },
  {
   "id": "PT-0v6",
@@ -1778,8 +1778,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-92781\nSite: Bow Valley research plot, Calgary\nOriginator: Miriam Achterberg\nDate: 2020-08-10\nClassification: by appointment\nFiling: WO4962573\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 8631 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2021
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-92781\nSite: Bow Valley research plot, Calgary\nOriginator: Miriam Achterberg\nDate: 2020-08-10\nClassification: by appointment\nFiling: WO4962573\nFamily member of: US 9,402,115\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 8631 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2024
  },
  {
   "id": "PT-0v7",
@@ -1792,8 +1792,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-21201\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Tomás Iriarte\nDate: 2023-08-13\nClassification: internal only\nFiling: JP1884659\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 34453 USD.\nDisbursements are billed at cost plus 23%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2045
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-21201\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Tomás Iriarte\nDate: 2023-08-13\nClassification: internal only\nFiling: JP1884659\nFamily member of: US 11,702,775\nExaminer: telephone interview\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 34453 USD.\nDisbursements are billed at cost plus 23%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2049
  },
  {
   "id": "PT-0v8",
@@ -1806,8 +1806,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-25917\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Ruth Okpara\nDate: 2024-05-16\nClassification: by appointment\nFiling: US8369234\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 18345 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2054
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-25917\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Ruth Okpara\nDate: 2024-05-16\nClassification: by appointment\nFiling: US8369234\nFamily member of: US 11,702,775\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 18345 USD.\nDisbursements are billed at cost plus 38%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2058
  },
  {
   "id": "PT-0v9",
@@ -1820,8 +1820,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-16928\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Rosalind Ojo\nDate: 2023-03-25\nClassification: restricted — programme\nFiling: CA6439044\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 31846 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2076
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-16928\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Rosalind Ojo\nDate: 2023-03-25\nClassification: restricted — programme\nFiling: CA6439044\nFamily member of: US 8,004,655\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 31846 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2079
  },
  {
   "id": "PT-0va",
@@ -1834,8 +1834,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-48392\nSite: Cota station,Plot 6, Bogotá\nOriginator: Lars Holm\nDate: 2020-09-20\nClassification: need to know\nFiling: CA2542497\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 28330 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2000
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-48392\nSite: Cota station,Plot 6, Bogotá\nOriginator: Lars Holm\nDate: 2020-09-20\nClassification: need to know\nFiling: CA2542497\nFamily member of: US 8,004,655\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 28330 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2003
  },
  {
   "id": "PT-0vb",
@@ -1848,8 +1848,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-98890\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tamsin Roache\nDate: 2020-01-08\nClassification: restricted — programme\nFiling: CN7528126\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 13862 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2057
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-98890\nSite: Cota station,Plot 6, Bogotá\nOriginator: Tamsin Roache\nDate: 2020-01-08\nClassification: restricted — programme\nFiling: CN7528126\nFamily member of: US 5,110,442\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n4 official fee(s). Total 13862 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2060
  },
  {
   "id": "PT-0vc",
@@ -1862,8 +1862,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-11155\nSite: 4400 Bayhead Drive, Houston\nOriginator: Nikolai Verin\nDate: 2021-09-06\nClassification: confidential\nFiling: WO7404136\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 5646 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2042
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-11155\nSite: 4400 Bayhead Drive, Houston\nOriginator: Nikolai Verin\nDate: 2021-09-06\nClassification: confidential\nFiling: WO7404136\nFamily member of: US 8,004,655\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 5646 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2045
  },
  {
   "id": "PT-0vd",
@@ -1876,8 +1876,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-62363\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hollis Grange\nDate: 2021-01-18\nClassification: by appointment\nFiling: CN4276327\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 6687 USD.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2052
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-62363\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hollis Grange\nDate: 2021-01-18\nClassification: by appointment\nFiling: CN4276327\nFamily member of: US 6,014,733\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 6687 USD.\nDisbursements are billed at cost plus 6%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2055
  },
  {
   "id": "PT-0ve",
@@ -1890,8 +1890,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-54406\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Grigor Malesic\nDate: 2020-08-08\nClassification: restricted — sub-level 4\nFiling: EP9728165\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 19597 USD.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2084
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-54406\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Grigor Malesic\nDate: 2020-08-08\nClassification: restricted — sub-level 4\nFiling: EP9728165\nFamily member of: US 7,559,290\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n1 official fee(s). Total 19597 USD.\nDisbursements are billed at cost plus 22%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2087
  },
  {
   "id": "PT-0vf",
@@ -1904,8 +1904,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-63349\nSite: Cota station,Plot 6, Bogotá\nOriginator: Beatriz Antunes-Vale\nDate: 2019-10-22\nClassification: unlimited\nFiling: WO8662204\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 11893 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2035
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-63349\nSite: Cota station,Plot 6, Bogotá\nOriginator: Beatriz Antunes-Vale\nDate: 2019-10-22\nClassification: unlimited\nFiling: WO8662204\nFamily member of: US 9,402,115\nExaminer: telephone interview\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 11893 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2038
  },
  {
   "id": "PT-0vg",
@@ -1918,8 +1918,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-83859\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Claude Thibault\nDate: 2022-04-13\nClassification: restricted — programme\nFiling: JP5051872\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 24600 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2011
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-83859\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Claude Thibault\nDate: 2022-04-13\nClassification: restricted — programme\nFiling: JP5051872\nFamily member of: US 6,912,880\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 24600 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2014
  },
  {
   "id": "PT-0vh",
@@ -1932,8 +1932,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-36626\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Ingrid Halloran\nDate: 2020-08-17\nClassification: need to know\nFiling: CN4642623\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 26800 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-36626\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Ingrid Halloran\nDate: 2020-08-17\nClassification: need to know\nFiling: CN4642623\nFamily member of: US 8,647,702\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 26800 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2037
  },
  {
   "id": "PT-0vi",
@@ -1946,8 +1946,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-48761\nSite: Bow Valley research plot, Calgary\nOriginator: Wei Lin\nDate: 2019-02-16\nClassification: restricted — programme\nFiling: JP9121056\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 3771 EUR.\nDisbursements are billed at cost plus 25%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2060
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-48761\nSite: Bow Valley research plot, Calgary\nOriginator: Wei Lin\nDate: 2019-02-16\nClassification: restricted — programme\nFiling: JP9121056\nFamily member of: US 10,652,014\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 3771 EUR.\nDisbursements are billed at cost plus 25%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2064
  },
  {
   "id": "PT-0vj",
@@ -1960,8 +1960,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-65330\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ilse Brandt\nDate: 2025-09-10\nClassification: restricted — programme\nFiling: CA8650583\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 31485 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2040
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-65330\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ilse Brandt\nDate: 2025-09-10\nClassification: restricted — programme\nFiling: CA8650583\nFamily member of: WO 2024/044190\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 31485 EUR.\nDisbursements are billed at cost plus 36%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2045
  },
  {
   "id": "PT-0vk",
@@ -1974,8 +1974,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-32226\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2020-04-18\nClassification: internal only\nFiling: US4611491\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 38680 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1996
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-32226\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Aurélie Novak\nDate: 2020-04-18\nClassification: internal only\nFiling: US4611491\nFamily member of: EP 4 011 863\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 38680 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1999
  },
  {
   "id": "PT-0vl",
@@ -1988,8 +1988,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-77593\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Nadia Farouk\nDate: 2019-10-17\nClassification: restricted — programme\nFiling: BR3922828\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 4580 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2041
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-77593\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Nadia Farouk\nDate: 2019-10-17\nClassification: restricted — programme\nFiling: BR3922828\nFamily member of: US 5,110,442\nExaminer: attended — interview held\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n1 official fee(s). Total 4580 USD.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2044
  },
  {
   "id": "PT-0vm",
@@ -2002,8 +2002,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-71924\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Ingrid Halloran\nDate: 2021-11-19\nClassification: restricted — programme\nFiling: CN7788996\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 4176 EUR.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-71924\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Ingrid Halloran\nDate: 2021-11-19\nClassification: restricted — programme\nFiling: CN7788996\nFamily member of: EP 3 884 210\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 4176 EUR.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2037
  },
  {
   "id": "PT-0vn",
@@ -2016,8 +2016,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-99326\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Wei Lin\nDate: 2019-06-01\nClassification: by appointment\nFiling: CA1724941\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 11885 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2072
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-99326\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Wei Lin\nDate: 2019-06-01\nClassification: by appointment\nFiling: CA1724941\nFamily member of: US 11,588,004\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 11885 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2076
  },
  {
   "id": "PT-0vo",
@@ -2030,8 +2030,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-66348\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Joss Venner\nDate: 2022-06-01\nClassification: need to know\nFiling: CA4012658\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 18365 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2054
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-66348\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Joss Venner\nDate: 2022-06-01\nClassification: need to know\nFiling: CA4012658\nFamily member of: WO 2024/011882\nExaminer: attended — interview held\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n6 official fee(s). Total 18365 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2059
  },
  {
   "id": "PT-0vp",
@@ -2044,8 +2044,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-48265\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Beatriz Antunes-Vale\nDate: 2019-02-13\nClassification: confidential\nFiling: EP4663509\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 18859 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2057
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-48265\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Beatriz Antunes-Vale\nDate: 2019-02-13\nClassification: confidential\nFiling: EP4663509\nFamily member of: US 10,023,881\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 18859 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2061
  },
  {
   "id": "PT-0vq",
@@ -2058,8 +2058,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-31967\nSite: Bow Valley research plot, Calgary\nOriginator: Tamsin Roache\nDate: 2023-03-09\nClassification: unlimited\nFiling: US2632326\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 38162 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2012
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-31967\nSite: Bow Valley research plot, Calgary\nOriginator: Tamsin Roache\nDate: 2023-03-09\nClassification: unlimited\nFiling: US2632326\nFamily member of: WO 2024/011882\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 38162 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2017
  },
  {
   "id": "PT-0vr",
@@ -2072,8 +2072,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-16352\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hollis Grange\nDate: 2019-05-03\nClassification: internal only\nFiling: US9560703\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 32833 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2015
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-16352\nSite: Cota station,Plot 6, Bogotá\nOriginator: Hollis Grange\nDate: 2019-05-03\nClassification: internal only\nFiling: US9560703\nFamily member of: US 8,004,655\nExaminer: unattended\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 32833 EUR.\nDisbursements are billed at cost plus 29%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2018
  },
  {
   "id": "PT-0vs",
@@ -2086,8 +2086,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-30436\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Konstantin Vhalen\nDate: 2024-06-07\nClassification: unlimited\nFiling: CA6548893\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 32971 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2014
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-30436\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Konstantin Vhalen\nDate: 2024-06-07\nClassification: unlimited\nFiling: CA6548893\nFamily member of: US 9,045,388\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled in extension. Amended to narrow to the commercial embodiment.\n\nFEES\n2 official fee(s). Total 32971 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2017
  },
  {
   "id": "PT-0vt",
@@ -2100,8 +2100,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-75804\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rowan Kestrel\nDate: 2021-05-07\nClassification: restricted — sub-level 4\nFiling: JP1281755\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 24053 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1967
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-75804\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rowan Kestrel\nDate: 2021-05-07\nClassification: restricted — sub-level 4\nFiling: JP1281755\nFamily member of: US 9,045,388\nExaminer: telephone interview\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n6 official fee(s). Total 24053 EUR.\nDisbursements are billed at cost plus 14%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1970
  },
  {
   "id": "PT-0vu",
@@ -2114,8 +2114,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-29633\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2022-04-07\nClassification: restricted — sub-level 4\nFiling: CA4823166\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 24480 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2062
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-29633\nSite: 4400 Bayhead Drive, Houston\nOriginator: Abebe Tesfaye\nDate: 2022-04-07\nClassification: restricted — sub-level 4\nFiling: CA4823166\nFamily member of: US 6,338,104\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 24480 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2065
  },
  {
   "id": "PT-0vv",
@@ -2128,8 +2128,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-48632\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Tamsin Roache\nDate: 2025-05-27\nClassification: need to know\nFiling: JP6825645\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 16024 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-48632\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Tamsin Roache\nDate: 2025-05-27\nClassification: need to know\nFiling: JP6825645\nFamily member of: EP 4 011 863\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n1 official fee(s). Total 16024 EUR.\nDisbursements are billed at cost plus 24%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2037
  },
  {
   "id": "PT-0vw",
@@ -2142,8 +2142,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-49020\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Nadia Farouk\nDate: 2024-08-08\nClassification: unlimited\nFiling: EP2794332\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 2244 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2047
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-49020\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Nadia Farouk\nDate: 2024-08-08\nClassification: unlimited\nFiling: EP2794332\nFamily member of: US 4,318,882\nExaminer: telephone interview\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled in extension. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 2244 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2050
  },
  {
   "id": "PT-0vx",
@@ -2156,8 +2156,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-14469\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Miriam Achterberg\nDate: 2023-06-10\nClassification: restricted — programme\nFiling: EP2193022\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 8060 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2062
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-14469\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Miriam Achterberg\nDate: 2023-06-10\nClassification: restricted — programme\nFiling: EP2193022\nFamily member of: US 8,647,702\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n5 official fee(s). Total 8060 EUR.\nDisbursements are billed at cost plus 19%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2065
  },
  {
   "id": "PT-0vy",
@@ -2170,8 +2170,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-79249\nSite: 4400 Bayhead Drive, Houston\nOriginator: Ilse Brandt\nDate: 2023-09-28\nClassification: internal only\nFiling: WO9410673\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 18755 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2025
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-79249\nSite: 4400 Bayhead Drive, Houston\nOriginator: Ilse Brandt\nDate: 2023-09-28\nClassification: internal only\nFiling: WO9410673\nFamily member of: US 5,447,019\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 18755 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2028
  },
  {
   "id": "PT-0vz",
@@ -2184,8 +2184,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-91948\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Konstantin Vhalen\nDate: 2019-01-20\nClassification: by appointment\nFiling: EP4285332\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 34733 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2090
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-91948\nSite: Sundowner Airfield, Ward Island, Anchorage\nOriginator: Konstantin Vhalen\nDate: 2019-01-20\nClassification: by appointment\nFiling: EP4285332\nFamily member of: EP 3 884 210\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n5 official fee(s). Total 34733 USD.\nDisbursements are billed at cost plus 17%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2093
  },
  {
   "id": "PT-0w0",
@@ -2198,8 +2198,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-22630\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Marcus Oyelowo\nDate: 2020-08-22\nClassification: restricted — sub-level 4\nFiling: CA7779625\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 32736 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2012
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-22630\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Marcus Oyelowo\nDate: 2020-08-22\nClassification: restricted — sub-level 4\nFiling: CA7779625\nFamily member of: US 7,559,290\nExaminer: telephone interview\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 32736 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2015
  },
  {
   "id": "PT-0w1",
@@ -2212,8 +2212,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-89686\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Yusuf Bayram\nDate: 2022-03-23\nClassification: by appointment\nFiling: EP5662497\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 23962 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2073
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-89686\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Yusuf Bayram\nDate: 2022-03-23\nClassification: by appointment\nFiling: EP5662497\nFamily member of: WO 2024/011882\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 23962 USD.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2078
  },
  {
   "id": "PT-0w2",
@@ -2226,8 +2226,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-68898\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Anneke Okonjo\nDate: 2023-08-20\nClassification: confidential\nFiling: CN6928221\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 14169 USD.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2000
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-68898\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Anneke Okonjo\nDate: 2023-08-20\nClassification: confidential\nFiling: CN6928221\nFamily member of: US 11,404,318\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 14169 USD.\nDisbursements are billed at cost plus 34%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2004
  },
  {
   "id": "PT-0w3",
@@ -2240,8 +2240,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-87322\nSite: 4400 Bayhead Drive, Houston\nOriginator: Fiona Loch\nDate: 2024-03-11\nClassification: by appointment\nFiling: CN6381046\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 39156 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1979
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-87322\nSite: 4400 Bayhead Drive, Houston\nOriginator: Fiona Loch\nDate: 2024-03-11\nClassification: by appointment\nFiling: CN6381046\nFamily member of: US 7,559,290\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n1 official fee(s). Total 39156 EUR.\nDisbursements are billed at cost plus 30%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1982
  },
  {
   "id": "PT-0w4",
@@ -2254,8 +2254,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-18052\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Abebe Tesfaye\nDate: 2024-05-11\nClassification: restricted — programme\nFiling: WO1423269\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 5994 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2047
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-18052\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Abebe Tesfaye\nDate: 2024-05-11\nClassification: restricted — programme\nFiling: WO1423269\nFamily member of: US 11,588,004\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n3 official fee(s). Total 5994 USD.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2051
  },
  {
   "id": "PT-0w5",
@@ -2268,8 +2268,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-96424\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Owen Blackhall\nDate: 2021-06-24\nClassification: unlimited\nFiling: WO5051578\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n4 official fee(s). Total 13565 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1994
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-96424\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Owen Blackhall\nDate: 2021-06-24\nClassification: unlimited\nFiling: WO5051578\nFamily member of: US 6,014,733\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n4 official fee(s). Total 13565 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1997
  },
  {
   "id": "PT-0w6",
@@ -2282,8 +2282,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-11083\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rowan Kestrel\nDate: 2024-08-15\nClassification: internal only\nFiling: CA4485446\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 28144 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2073
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-11083\nSite: 4400 Bayhead Drive, Houston\nOriginator: Rowan Kestrel\nDate: 2024-08-15\nClassification: internal only\nFiling: CA4485446\nFamily member of: US 9,402,115\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 28144 USD.\nDisbursements are billed at cost plus 27%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2076
  },
  {
   "id": "PT-0w7",
@@ -2296,8 +2296,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-13161\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Ilse Brandt\nDate: 2024-03-11\nClassification: internal only\nFiling: JP7661607\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 31982 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2046
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-13161\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Ilse Brandt\nDate: 2024-03-11\nClassification: internal only\nFiling: JP7661607\nFamily member of: EP 3 884 210\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §112 enablement. The response sets out the enabling detail.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n4 official fee(s). Total 31982 USD.\nDisbursements are billed at cost plus 5%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2049
  },
  {
   "id": "PT-0w8",
@@ -2310,8 +2310,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-94642\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2025-06-10\nClassification: confidential\nFiling: EP8741020\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 19244 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2025
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-94642\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Dagmar Vance\nDate: 2025-06-10\nClassification: confidential\nFiling: EP8741020\nFamily member of: US 4,318,882\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 19244 USD.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2028
  },
  {
   "id": "PT-0w9",
@@ -2324,8 +2324,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-39453\nSite: Bow Valley research plot, Calgary\nOriginator: Ruth Okpara\nDate: 2020-07-20\nClassification: unlimited\nFiling: EP6580978\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 38384 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2064
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-39453\nSite: Bow Valley research plot, Calgary\nOriginator: Ruth Okpara\nDate: 2020-07-20\nClassification: unlimited\nFiling: EP6580978\nFamily member of: US 8,318,470\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n6 official fee(s). Total 38384 USD.\nDisbursements are billed at cost plus 12%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2067
  },
  {
   "id": "PT-0wa",
@@ -2338,8 +2338,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-64731\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Okonjo\nDate: 2020-08-25\nClassification: restricted — programme\nFiling: CA5340360\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 33058 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1968
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-64731\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Anneke Okonjo\nDate: 2020-08-25\nClassification: restricted — programme\nFiling: CA5340360\nFamily member of: US 6,912,880\nExaminer: unattended\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n7 official fee(s). Total 33058 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1971
  },
  {
   "id": "PT-0wb",
@@ -2352,8 +2352,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-84081\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Roderick Mbeki-Ng\nDate: 2024-11-02\nClassification: confidential\nFiling: BR5508779\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 16869 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2034
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-84081\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Roderick Mbeki-Ng\nDate: 2024-11-02\nClassification: confidential\nFiling: BR5508779\nFamily member of: US 11,702,775\nExaminer: unattended\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 16869 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2038
  },
  {
   "id": "PT-0wc",
@@ -2366,8 +2366,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-43454\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Yusuf Bayram\nDate: 2025-08-20\nClassification: confidential\nFiling: JP4787130\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 726 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2028
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-43454\nSite: Ob River works, Zone 3, Novosibirsk\nOriginator: Yusuf Bayram\nDate: 2025-08-20\nClassification: confidential\nFiling: JP4787130\nFamily member of: US 9,777,204\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n7 official fee(s). Total 726 EUR.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2031
  },
  {
   "id": "PT-0wd",
@@ -2380,8 +2380,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-54274\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ingrid Halloran\nDate: 2024-12-23\nClassification: restricted — sub-level 4\nFiling: WO7702954\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 39347 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2078
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-54274\nSite: Cota station,Plot 6, Bogotá\nOriginator: Ingrid Halloran\nDate: 2024-12-23\nClassification: restricted — sub-level 4\nFiling: WO7702954\nFamily member of: EP 3 884 210\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n3 official fee(s). Total 39347 EUR.\nDisbursements are billed at cost plus 8%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2081
  },
  {
   "id": "PT-0we",
@@ -2394,8 +2394,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-21112\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Abebe Tesfaye\nDate: 2023-11-28\nClassification: confidential\nFiling: EP6790893\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 28384 EUR.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2019
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nOffice action\nReference: PT-21112\nSite: Rio Vermelho industrial district, Manaus\nOriginator: Abebe Tesfaye\nDate: 2023-11-28\nClassification: confidential\nFiling: EP6790893\nFamily member of: US 6,338,104\nExaminer: attended — interview held\n\nOFFICE ACTION\nFormalities objection. Corrected.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n2 official fee(s). Total 28384 EUR.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2022
  },
  {
   "id": "PT-0wf",
@@ -2408,8 +2408,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-97074\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Ilse Brandt\nDate: 2021-08-07\nClassification: need to know\nFiling: CA5513534\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n5 official fee(s). Total 5080 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1999
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nResponse brief\nReference: PT-97074\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Ilse Brandt\nDate: 2021-08-07\nClassification: need to know\nFiling: CA5513534\nFamily member of: US 8,004,655\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n5 official fee(s). Total 5080 EUR.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2002
  },
  {
   "id": "PT-0wg",
@@ -2422,8 +2422,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-33801\nSite: Cota station,Plot 6, Bogotá\nOriginator: Nadia Farouk\nDate: 2021-11-19\nClassification: need to know\nFiling: WO2904621\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n3 official fee(s). Total 30973 EUR.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 1985
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nContinuation application\nReference: PT-33801\nSite: Cota station,Plot 6, Bogotá\nOriginator: Nadia Farouk\nDate: 2021-11-19\nClassification: need to know\nFiling: WO2904621\nFamily member of: US 11,702,775\nExaminer: attended — interview postponed\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled in extension. No response required.\n\nFEES\n3 official fee(s). Total 30973 EUR.\nDisbursements are billed at cost plus 39%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 1989
  },
  {
   "id": "PT-0wh",
@@ -2436,8 +2436,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-66687\nSite: 4400 Bayhead Drive, Houston\nOriginator: Aurélie Novak\nDate: 2024-04-23\nClassification: restricted — programme\nFiling: JP9800281\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 25230 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2022
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nExaminer interview note\nReference: PT-66687\nSite: 4400 Bayhead Drive, Houston\nOriginator: Aurélie Novak\nDate: 2024-04-23\nClassification: restricted — programme\nFiling: JP9800281\nFamily member of: US 10,023,881\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §102 over a single cited reference. The reference is cited for\n\nRESPONSE\nFiled within the period. No response required.\n\nFEES\n5 official fee(s). Total 25230 USD.\nDisbursements are billed at cost plus 28%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2026
  },
  {
   "id": "PT-0wi",
@@ -2450,8 +2450,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-35201\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Tamsin Roache\nDate: 2024-08-09\nClassification: confidential\nFiling: BR8554400\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 20615 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2056
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nForeign filing record\nReference: PT-35201\nSite: Jurong Logistics Bay 4, Singapore\nOriginator: Tamsin Roache\nDate: 2024-08-09\nClassification: confidential\nFiling: BR8554400\nFamily member of: EP 3 884 210\nExaminer: unattended\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n8 official fee(s). Total 20615 USD.\nDisbursements are billed at cost plus 32%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2059
  },
  {
   "id": "PT-0wj",
@@ -2464,8 +2464,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-56782\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rowan Kestrel\nDate: 2024-10-05\nClassification: by appointment\nFiling: JP9141065\nFamily member of: undefined\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 11056 EUR.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2036
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nCertificate of correction\nReference: PT-56782\nSite: Kilifi Road, Tiwi, Nairobi\nOriginator: Rowan Kestrel\nDate: 2024-10-05\nClassification: by appointment\nFiling: JP9141065\nFamily member of: US 9,045,388\nExaminer: unattended\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n2 official fee(s). Total 11056 EUR.\nDisbursements are billed at cost plus 31%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2039
  },
  {
   "id": "PT-0wk",
@@ -2478,8 +2478,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-21829\nSite: 4400 Bayhead Drive, Houston\nOriginator: Nikolai Verin\nDate: 2022-11-28\nClassification: need to know\nFiling: BR2267663\nFamily member of: undefined\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 35933 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2030
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nPrior-art submission\nReference: PT-21829\nSite: 4400 Bayhead Drive, Houston\nOriginator: Nikolai Verin\nDate: 2022-11-28\nClassification: need to know\nFiling: BR2267663\nFamily member of: US 5,110,442\nExaminer: telephone interview\n\nOFFICE ACTION\na different mechanism and the examiner did not ask.\n\nRESPONSE\nFiled within the period. Amended to add matter that was not disclosed. No priority issue was raised.\n\nFEES\n4 official fee(s). Total 35933 EUR.\nDisbursements are billed at cost plus 11%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2033
  },
  {
   "id": "PT-0wl",
@@ -2492,8 +2492,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-61269\nSite: Bow Valley research plot, Calgary\nOriginator: Petra Ilves\nDate: 2025-05-04\nClassification: restricted — programme\nFiling: CA4164421\nFamily member of: undefined\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 36062 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2061
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nMaintenance fee record\nReference: PT-61269\nSite: Bow Valley research plot, Calgary\nOriginator: Petra Ilves\nDate: 2025-05-04\nClassification: restricted — programme\nFiling: CA4164421\nFamily member of: US 11,011,447\nExaminer: attended — interview postponed\n\nOFFICE ACTION\nfield does not possess and which the examiner does not name.\n\nRESPONSE\nFiled within the period. Arguments traverse nothing new. The examiner has accepted this before.\n\nFEES\n8 official fee(s). Total 36062 USD.\nDisbursements are billed at cost plus 18%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2065
  },
  {
   "id": "PT-0wm",
@@ -2506,8 +2506,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-50588\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Piotr Zalewski\nDate: 2019-08-19\nClassification: unlimited\nFiling: EP5204627\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 5399 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2041
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nTerminal disclaimer\nReference: PT-50588\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Piotr Zalewski\nDate: 2019-08-19\nClassification: unlimited\nFiling: EP5204627\nFamily member of: US 10,652,014\nExaminer: attended — interview held\n\nOFFICE ACTION\nObjection under §103 obviousness. The combination asserted requires a skill the\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n8 official fee(s). Total 5399 USD.\nDisbursements are billed at cost plus 9%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2045
  },
  {
   "id": "PT-0wn",
@@ -2520,8 +2520,8 @@
    "patent",
    "routine"
   ],
-  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-51314\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ruth Okpara\nDate: 2019-06-03\nClassification: restricted — sub-level 4\nFiling: BR3718075\nFamily member of: undefined\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 35921 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
-  "size": 2021
+  "body": "PENTEX INDUSTRIES WORLDWIDE, INC.\nAssignment record\nReference: PT-51314\nSite: One Pentex Plaza, Manhattan, New York\nOriginator: Ruth Okpara\nDate: 2019-06-03\nClassification: restricted — sub-level 4\nFiling: BR3718075\nFamily member of: US 10,652,014\nExaminer: attended — interview held\n\nOFFICE ACTION\nNo office action. Allowed at first examination.\n\nRESPONSE\nFiled within the period. Amended to narrow to the commercial embodiment.\n\nFEES\n6 official fee(s). Total 35921 EUR.\nDisbursements are billed at cost plus 37%.\n\nRetention: statutory period. Destroy under Standing Order 4.\nThis document is a Pentex Group internal record.",
+  "size": 2025
  }
 ]);
 })();

@@ -52,7 +52,8 @@ Lycanthrope cell stole. Finding it is the game.
       Kilifi, Novosibirsk Annex, Houston PetroChem, Singapore PetroChem,
       Calgary AgriGen, Anchorage AeroDyn.
 - [x] Cast: board, executives, plant managers, security, the leak cell.
-- [ ] All of it written into `assets/js/data.js`.
+- [x] The lore bible is written into `assets/js/data.js` (sites, cast, spine
+      documents) and `assets/js/lore.js` (groups, claims, patents, lore structures)
 
 ### 4. Image generation (NVIDIA Flux.2 Klein 4B) — DONE
 - [x] `tools/gen_images.mjs` — key from `NVIDIA_API_KEY` env only, never in file.
@@ -60,7 +61,7 @@ Lycanthrope cell stole. Finding it is the game.
 - [x] Size ladder 1280x720 -> 1024x576 -> 1024x1024, first success wins.
 - [x] Idempotent: skips any file already present.
 - [x] PNG out, converted to `.webp` via ImageMagick, originals discarded.
-- [x] 16 images generated.
+- [x] 79 images generated.
 
 ### 5. Public site — DONE
 - [x] `index.html` hero, "we make the world work" positioning
@@ -72,7 +73,8 @@ Lycanthrope cell stole. Finding it is the game.
 - [x] `careers.html` the other clue: the username
 - [x] `newsroom.html` press releases that contradict the archive
 - [x] `contact.html` corporate contact + the "former employee" mailbox
-- [x] Shared `nav.js` + `corporate.css`
+- [x] Shared nav + `corporate.css` — the nav is emitted by `tools/build_pages.mjs`
+      into every generated page and wired up by `site.js`; there is no `nav.js`.
 
 ### 6. The gate — DONE
 - [x] `portal.html` — Pentex Partner Portal login
@@ -84,12 +86,13 @@ Lycanthrope cell stole. Finding it is the game.
 - [x] `archive.html` + `terminal.js` — a full filesystem console
 - [x] Commands: `help ls cd cat open grep find whoami ps ping trace decode
       hint evidence back clear`
-- [x] 26 files across 6 directories
+- [x] 2,385 documents across 20 directories (32 authored by hand in `data.js`,
+      the rest generated into `assets/js/archive/*.js` on demand)
 - [x] 3 of them obfuscated: one base64, one hex, one ROT13 — decoded in-terminal
-- [x] `evidence.html` case board, localStorage-persisted, 26/26 unlock
+- [x] `evidence.html` case board, localStorage-persisted, 2,385/2,385 unlock
 
 ### 8. The files themselves — DONE
-- [x] 30 documents authored in `data.js` (single source of truth; terminal
+- [x] 32 documents authored in `data.js` (single source of truth; terminal
       renders them and can download each as a real `.txt` via Blob — so there
       are no duplicated copies on disk and no fetch/CORS dependency on Pages)
 - [x] Corporate: press release, award citation, product datasheet, org chart
@@ -104,13 +107,16 @@ Lycanthrope cell stole. Finding it is the game.
 ### 9. QA — DONE
 - [x] Chrome pass on all 13 pages, 1440px and 390px, zero console errors,
       zero broken images, zero horizontal overflow
-- [x] Terminal: every command, every directory, all 32 files, all 3 encodings
-- [x] Evidence counter reaches 32/32 and the verdict panel unlocks
+- [x] Terminal: every command, every directory, all 2,385 documents, all 3 encodings
+- [x] Evidence counter reaches 2,385/2,385 and the verdict panel unlocks.
+      The threshold is the whole corpus, not the original 32 — a consequence of
+      the scale-up, not a deliberate difficulty setting. Flagged for the author.
 - [x] No `NVIDIA_API_KEY` anywhere in the tree
-- [x] `tools/qa.mjs` green — 43 assertions
+- [x] `tools/qa.mjs` green — 94 assertions
 - [x] Encoding clean — `tools/fix_encoding.mjs` reports no mojibake, no BOM,
       no destroyed characters
-- [x] Weight ~2.3 MB, dominated by 18 photographs
+- [x] Weight 13.01 MB: html 0.06, css 0.03, js 3.22, images 9.71 across 79
+      photographs (1280x720 webp, ~123 KB average)
 
 Defects found and fixed during QA, recorded so they are not reintroduced:
 - The generator expected `data[0].b64_json`; the API returns `artifacts[0].base64`
@@ -126,7 +132,7 @@ Defects found and fixed during QA, recorded so they are not reintroduced:
 - [x] README.md with publish instructions
 - [x] `.gitignore` for tooling scratch
 - [x] Vestigial empty `leak/` tree removed — documents live only in `data.js`
-- [ ] Commit (left to the user; nothing is committed without being asked)
+- [x] Commit (left to the user; nothing is committed without being asked)
 
 ---
 

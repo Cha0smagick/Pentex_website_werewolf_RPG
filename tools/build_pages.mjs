@@ -61,12 +61,12 @@ ${breach ? '' : `<footer class="foot">
   <div class="shell">
     <div class="foot__grid">
       <div>
-        <h4>Pentex Industries Worldwide, Inc.</h4>
+        <h3>Pentex Industries Worldwide, Inc.</h3>
         <p>One Pentex Plaza, Manhattan, New York, United States.</p>
         <p>Registered in Delaware. Listed NYSE: PTX.</p>
       </div>
       <div>
-        <h4>Group</h4>
+        <h3>Group</h3>
         <ul>
           <li><a href="about.html">About</a></li>
           <li><a href="leadership.html">Leadership</a></li>
@@ -74,7 +74,7 @@ ${breach ? '' : `<footer class="foot">
         </ul>
       </div>
       <div>
-        <h4>Public record</h4>
+        <h3>Public record</h3>
         <ul>
           <li><a href="sustainability.html">Sustainability</a></li>
           <li><a href="newsroom.html">Newsroom</a></li>
@@ -82,7 +82,7 @@ ${breach ? '' : `<footer class="foot">
         </ul>
       </div>
       <div>
-        <h4>Restricted</h4>
+        <h3>Restricted</h3>
         <ul>
           <li><a href="portal.html">Employee portal</a></li>
           <li><a href="contact.html">Contact</a></li>
@@ -210,6 +210,7 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
         <h2>The same nine things, as they are filed.</h2>
         <p class="rule-heavy"></p>
       </div>
+      <div class="dtable-wrap" tabindex="0">
       <table class="dtable">
         <caption>Where each concept becomes a Pentex document.</caption>
         <thead>
@@ -226,6 +227,7 @@ ${FIG('lab-sterile', 'A clean-room laboratory at Pentex BioSynth, lit from above
           <tr><td class="u-mono">/garou/gr-h10</td><td>The handoff. Four of the eleven will be gone within a year. The case will be won by a person reading a table carefully, not by a curse.</td></tr>
         </tbody>
       </table>
+      </div>
     </div>
   </section>
 
@@ -395,13 +397,15 @@ ${FIG('amazon-river', 'A wide brown river winding through continuous rainforest,
         <p class="rule-heavy"></p>
       </div>
       <p class="lede" id="directory-hint"></p>
-      <table class="dtable">
+      <div class="dtable-wrap" tabindex="0">
+        <table class="dtable">
         <caption>Accountable officers and directors, by desk. Published under the group’s assessor-access policy.</caption>
         <thead>
           <tr><th scope="col">Desk</th><th scope="col">Role</th><th scope="col">Department</th><th scope="col">Site</th><th scope="col">Badge</th><th scope="col">Mailbox</th></tr>
         </thead>
         <tbody id="directory"></tbody>
       </table>
+      </div>
       <div class="strip u-mt">
         <b>Badge policy.</b> <span id="badge-policy"></span>
       </div>
@@ -520,13 +524,15 @@ ${FIG('press-conference', 'A corporate press event seen from the back of the roo
         <h2>Addresses for all nine principal sites.</h2>
         <p class="rule-heavy"></p>
       </div>
-      <table class="dtable">
+      <div class="dtable-wrap" tabindex="0">
+        <table class="dtable">
         <caption>Principal site addresses. Courier deliveries are accepted at the site gatehouse only.</caption>
         <thead>
           <tr><th scope="col">Site</th><th scope="col">City</th><th scope="col">Division</th><th scope="col">Opened</th><th scope="col">Staff</th></tr>
         </thead>
         <tbody id="site-addresses"></tbody>
       </table>
+      </div>
     </div>
   </section>
 
@@ -570,19 +576,19 @@ ${FIG('hq-tower', 'Pentex House at dusk, seen across the plaza from the river.',
       <div class="grid grid--3">
         <article class="card">
           <p class="card__k">01</p>
-          <h3>Try the group index</h3>
+          <h2>Try the group index</h2>
           <p>Every published page is reachable from the masthead. Nothing is hidden behind an unlinked path.</p>
           <p><a class="btn btn--quiet" href="index.html">Group</a></p>
         </article>
         <article class="card">
           <p class="card__k">02</p>
-          <h3>Try the site register</h3>
+          <h2>Try the site register</h2>
           <p>If you were looking for a facility, the register carries all nine principal addresses.</p>
           <p><a class="btn btn--quiet" href="facilities.html">Facilities</a></p>
         </article>
         <article class="card">
           <p class="card__k">03</p>
-          <h3>Try the portal</h3>
+          <h2>Try the portal</h2>
           <p>If you were sent a link by a colleague, the restricted portal is the only part of the group site that is not indexed.</p>
           <p><a class="btn btn--quiet" href="portal.html">Restricted</a></p>
         </article>

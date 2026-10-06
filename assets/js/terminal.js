@@ -123,7 +123,7 @@
     'gr-h04': ['fire-night-glow', 'Episode seven, 2016. Canopy removed in nine weeks, without burning, because the memorandum said a line and not a fire.']
   };
 
-  var CREDENTIAL_FAIL = 'credential rejected — this room needs the sub-level 4 session. <a href="portal.html">portal.html</a>';
+  var CREDENTIAL_FAIL = 'credential rejected — this room needs the sub-level 4 session. <a href="portal.html">Return to the portal</a>';
 
   /* ---------- state ---------- */
 

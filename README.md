@@ -254,7 +254,7 @@ layer staying public.
 `data.js`, `lore.js`, chunks and `terminal.js` against a stub `localStorage`,
 `sessionStorage` and `document`, then drives the shell the way a player would:
 435 assertions across eight groups — store integrity, shell commands, every
-directory, the three obfuscated stores, all 149 CSV ledgers, the evidence board,
+directory, the three obfuscated stores, all 150 CSV ledgers, the evidence board,
 downloads, and the idle-timeout guard.
 
 ## A note on the aesthetic

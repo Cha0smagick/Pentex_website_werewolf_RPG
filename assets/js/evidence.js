@@ -45,6 +45,14 @@
   }
 
   function denied() {
+    // The board shell — a gauge stuck at 0%, a "0 / 32" counter, an empty grid,
+    // and a "Clear this board" button that is wired only after the auth check
+    // below — reads as a working instrument that has lost its data. It has not;
+    // it never ran. Clear it so the rejection is the whole page. The skip link
+    // targets #main, so the element itself has to survive; only its contents go.
+    var board = document.getElementById('main');
+    if (board) board.innerHTML = '';
+
     var wrap = h('div', 'note');
     var box = h('div', 'note__in');
     box.appendChild(h('h1', null, 'Credential rejected'));
@@ -56,12 +64,12 @@
       )
     );
     var p = h('p');
-    var a = h('a', null, 'portal.html');
+    var a = h('a', null, 'Return to the portal');
     a.href = 'portal.html';
     p.appendChild(a);
     box.appendChild(p);
     wrap.appendChild(box);
-    document.body.appendChild(wrap);
+    (board || document.body).appendChild(wrap);
   }
 
   function init() {

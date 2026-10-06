@@ -1,4 +1,4 @@
-﻿/* Pre-ship checks. Run:  node tools/qa.mjs
+/* Pre-ship checks. Run:  node tools/qa.mjs
    Everything here is a real assertion about the shipped tree. No dependencies. */
 import { readFileSync, readdirSync, existsSync, statSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
@@ -14,13 +14,18 @@ const ok = (name, pass, detail) => {
   checks++;
   if (!pass) fails++;
   const mark = pass ? 'PASS' : 'FAIL';
-  process.stdout.write(`${mark}  ${name}${detail ? '  â€” ' + detail : ''}\n`);
+  process.stdout.write(`${mark}  ${name}${detail ? '  \u2014 ' + detail : ''}\n`);
 };
 
 function walk(dir, out = []) {
   for (const entry of readdirSync(join(ROOT, dir))) {
     if (entry === 'node_modules' || entry === '.git' || entry === 'raw') continue;
+    // Every entry here is a local-tooling directory that is gitignored and is
+    // not part of the site. They must be skipped or this walk picks up scratch
+    // files: each stray .js adds a 'syntax' check, so the suite's own count
+    // would move with whatever tooling the developer last ran.
     if (entry === '.codegraph' || entry === '.opencode' || entry === 'undefined') continue;
+    if (entry === '.playwright-mcp' || entry === '.omo') continue;
     const full = join(dir, entry);
     if (statSync(join(ROOT, full)).isDirectory()) walk(full, out);
     else out.push(full);
@@ -260,6 +265,16 @@ ok('document paths are unique', (() => {
 })());
 ok('no replacement characters in any document body',
   files.every((f) => f.body.indexOf('\uFFFD') === -1));
+// A template that picks from an empty list prints the JavaScript value into the
+// document instead of a fact. gen_corpus.mjs shipped 180 patents reading
+// "Family member of: undefined" because lore.js had not been loaded by the time
+// the corpus literal was evaluated. These four tokens are the fingerprints of
+// that class of bug, and none of them can occur in prose by accident.
+const JS_LEAK = /\bundefined\b|\bNaN\b|\[object \w+\]|\$\{/;
+const leaked = files.filter((f) =>
+  JS_LEAK.test(f.body) || JS_LEAK.test(f.title || ''));
+ok('no JavaScript value leaked into a document', leaked.length === 0,
+  leaked.length ? leaked.slice(0, 3).map((f) => f.path).join(', ') : '');
 ok('every document is listed in FS', (() => {
   const s = new Set();
   Object.keys(K.FS || {}).forEach((k) => (K.FS[k] || []).forEach((e) => {

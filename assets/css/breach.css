@@ -31,6 +31,14 @@ body.breach a {
   color: var(--phosphor);
 }
 
+/* The skip link is white on the accent fill, which clears 4.5:1. The generic
+   breach link colour above wins on specificity and would drop it to phosphor
+   on teal — a 2.6:1 pairing on the one affordance that exists so a keyboard
+   user can bypass the nav. */
+body.breach a.skip {
+  color: #fff;
+}
+
 ::selection {
   background: var(--phosphor);
   color: var(--void);
